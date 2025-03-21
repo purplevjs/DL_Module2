@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Partner Chat</title>
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+    <style>
+        body {
+            font-family: 'Comic Sans MS', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fc;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .chat-container {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            max-width: 800px;
+            margin: 0 auto;
+            width: 100%;
+            background-color: white;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            border-radius: 12px;
+        }
+        
+        .chat-header {
+            background-color: #88c9f9;
+            color: #333;
+            padding: 12px 18px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 12px 12px 0 0;
+            font-weight: bold;
+        }
+        
+        .chat-header h1 {
+            margin: 0;
+            font-size: 24px;
+            font-family: 'Comic Sans MS', 'Bubblegum Sans', cursive;
+            letter-spacing: 1px;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+        }
+        
+        .messages-container {
+            flex: 1;
+            overflow-y: auto;
+            padding: 16px;
+            background-color: #f0f8ff;
+            background-image: linear-gradient(to bottom right, #f0f8ff, #d6ebff);
+        }
+        
+        .chat-message {
+            max-width: 65%;
+            padding: 10px 14px;
+            margin-bottom: 12px;
+            border-radius: 18px;
+            position: relative;
+            word-wrap: break-word;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            font-size: 15px;
+        }
+        
+        .user-message {
+            background-color: #d8f8d4;
+            margin-left: auto;
+            border-top-right-radius: 4px;
+            border: 2px solid #c1e8ba;
+        }
+        
+        .bot-message {
+            background-color: #fff5e6;
+            margin-right: auto;
+            border-top-left-radius: 4px;
+            border: 2px solid #ffecd9;
+        }
+        
+        .chat-controls {
+            display: flex;
+            padding: 14px;
+            background-color: #f3f6fb;
+            align-items: center;
+            border-radius: 0 0 12px 12px;
+            border-top: 1px solid #e8ecf2;
+        }
+        
+        .transcription-preview {
+            flex: 1;
+            background-color: white;
+            border-radius: 25px;
+            padding: 12px 16px;
+            margin-right: 10px;
+            min-height: 20px;
+            border: 2px solid #e8ecf2;
+            font-size: 14px;
+            box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+        }
+        
+        .speak-button {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: #88c9f9;
+            color: white;
+            border: none;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            transition: all 0.3s ease;
+            box-shadow: 0 3px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .speak-button:disabled {
+            background-color: #c7e5fc;
+        }
+        
+        .speak-button:active {
+            background-color: #65b6f6;
+            transform: scale(0.95);
+        }
+        
+        .recording-indicator {
+            display: none;
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: #ff6b6b;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            animation: blink 1s infinite;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        
+        @keyframes blink {
+            0% { opacity: 1; }
+            50% { opacity: 0.5; }
+            100% { opacity: 1; }
+        }
+        
+        .timestamp {
+            font-size: 11px;
+            color: #8c8c8c;
+            margin-top: 6px;
+            display: block;
+            text-align: right;
+        }
+        
+        .message-text {
+            white-space: pre-wrap;
+            word-break: break-word;
+            line-height: 1.4;
+        }
+        
+        /* Add cute bubble effects */
+        .user-message:after, .bot-message:after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            width: 15px;
+            height: 15px;
+        }
+        
+        .user-message:after {
+            right: -8px;
+            border-bottom-left-radius: 15px;
+            box-shadow: -6px 6px 0 0 #d8f8d4;
+            border-right: 2px solid #c1e8ba;
+            border-bottom: 2px solid #c1e8ba;
+        }
+        
+        .bot-message:after {
+            left: -8px;
+            border-bottom-right-radius: 15px;
+            box-shadow: 6px 6px 0 0 #fff5e6;
+            border-left: 2px solid #ffecd9;
+            border-bottom: 2px solid #ffecd9;
+        }
+        
+        /* Add cute avatars */
+        .bot-message {
+            margin-left: 36px;
+        }
+        
+        .bot-message:before {
+            content: '🤖';
+            position: absolute;
+            left: -36px;
+            top: 0;
+            width: 30px;
+            height: 30px;
+            background-color: #ffd7d7;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            font-size: 18px;
+        }
+        
+        .user-message {
+            margin-right: 36px;
+        }
+        
+        .user-message:before {
+            content: '👤';
+            position: absolute;
+            right: -36px;
+            top: 0;
+            width: 30px;
+            height: 30px;
+            background-color: #d8f8d4;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h1>AI Partner</h1>
+        </div>
+        
+        <div class="recording-indicator" id="recording-indicator">Recording...</div>
+        
+        <div class="messages-container" id="messages">
+            <!-- Messages will be added here dynamically -->
+        </div>
+        
+        <div class="chat-controls">
+            <div class="transcription-preview" id="transcription-preview"></div>
+            <button class="speak-button" id="speak">
+                <i>🎤</i>
+            </button>
+        </div>
+    </div>
+
+    <script>
+        let socket;
+        let audioContext;
+        let processor;
+        let isRecording = false;
+        
+        const speakButton = document.getElementById("speak");
+        const messagesContainer = document.getElementById("messages");
+        const transcriptionPreview = document.getElementById("transcription-preview");
+        const recordingIndicator = document.getElementById("recording-indicator");
+        
+        // Connect to WebSocket server with improved options
+        socket = io("ws://localhost:5000/ws", {
+            transports: ["websocket", "polling"], // Add polling as a fallback
+            reconnection: true,
+            reconnectionAttempts: 5,
+            reconnectionDelay: 1000,
+            timeout: 20000 // Increase timeout
+        });
+        
+        // Initialize audio recording functions
+        async function startRecording() {
+            try {
+                console.log("Starting recording");
+                const stream = await navigator.mediaDevices.getUserMedia({
+                    audio: {
+                        channelCount: 1,
+                        sampleRate: 16000
+                    }
+                });
+                
+                socket.emit("start_recording");
+                
+                // Create audio context with specific sample rate
+                audioContext = new AudioContext({ sampleRate: 16000 });
+                const source = audioContext.createMediaStreamSource(stream);
+                
+                // Create processor node
+                processor = audioContext.createScriptProcessor(2048, 1, 1);
+                
+                source.connect(processor);
+                processor.connect(audioContext.destination);
+                
+                let audioChunkCounter = 0;
+                
+                processor.onaudioprocess = (e) => {
+                    if (socket.connected && isRecording) {
+                        // Get mono audio data
+                        const inputData = e.inputBuffer.getChannelData(0);
+                        
+                        // Convert to 16-bit integer data
+                        const pcmData = new Int16Array(inputData.length);
+                        for (let i = 0; i < inputData.length; i++) {
+                            const s = Math.max(-1, Math.min(1, inputData[i]));
+                            pcmData[i] = s < 0 ? s * 0x8000 : s * 0x7FFF;
+                        }
+                        
+                        audioChunkCounter++;
+                        if (audioChunkCounter % 50 === 0) {
+                            console.log(`Sending audio chunk #${audioChunkCounter}`);
+                        }
+                        
+                        // Send data
+                        socket.emit("audio_chunk", pcmData.buffer);
+                    } else if (!isRecording) {
+                        stopRecordingProcess();
+                    }
+                };
+                
+                isRecording = true;
+                speakButton.innerHTML = '<i>⏹️</i>';
+                recordingIndicator.style.display = "block";
+                
+            } catch (error) {
+                console.error("Recording error:", error);
+            }
+        }
+        
+        // Record user's last transcription text
+        let lastTranscription = "";
+        
+        // Modify stop recording function, add timeout protection
+        function stopRecordingProcess() {
+            if (!isRecording) return;
+            
+            isRecording = false;
+            speakButton.innerHTML = '<i>🎤</i>';
+            recordingIndicator.style.display = "none";
+            
+            // Get final transcription text
+            const finalTranscription = transcriptionPreview.textContent.trim();
+            
+            // If there's transcription text, add it to chat history
+            if (finalTranscription) {
+                simpleAddMessage(finalTranscription, true);
+                transcriptionPreview.textContent = ''; // Clear preview
+            }
+            
+            try {
+                // Disconnect audio processing
+                if (processor) {
+                    processor.disconnect();
+                    processor = null;
+                }
+                if (audioContext) {
+                    audioContext.close();
+                    audioContext = null;
+                }
+            } catch (e) {
+                console.error("Error cleaning up audio resources:", e);
+            }
+            
+            // Disable button to prevent repeated clicks
+            speakButton.disabled = true;
+            
+            // Send stop recording event
+            if (socket && socket.connected) {
+                socket.emit("stop_recording");
+                
+                // Add timeout protection to avoid infinite waiting
+                setTimeout(() => {
+                    if (speakButton.disabled) {
+                        console.log("Response timeout, re-enabling button");
+                        speakButton.disabled = false;
+                        
+                        // If no reply has been displayed yet, show a timeout message
+                        if (!aiResponseElement) {
+                            simpleAddMessage("Sorry, the response took too long. Please try again.", false);
+                        }
+                    }
+                }, 600000); // 15 second timeout
+            } else {
+                console.error("Socket not connected, can't send stop_recording event");
+                speakButton.disabled = false;
+                simpleAddMessage("Connection error. Please refresh the page and try again.", false);
+            }
+        }
+        
+        // Handle button press/release for recording
+        speakButton.addEventListener("mousedown", startRecording);
+        speakButton.addEventListener("mouseup", stopRecordingProcess);
+        speakButton.addEventListener("mouseleave", () => {
+            if (isRecording) {
+                stopRecordingProcess();
+            }
+        });
+        
+        // Touch events for mobile
+        speakButton.addEventListener("touchstart", (e) => {
+            e.preventDefault();
+            startRecording();
+        });
+        
+        speakButton.addEventListener("touchend", (e) => {
+            e.preventDefault();
+            stopRecordingProcess();
+        });
+        
+        // New simplified version of add message function
+        function simpleAddMessage(text, isUser) {
+            console.log(`Adding ${isUser ? "user" : "bot"} message:`, text);
+            
+            // Create message element
+            const msgDiv = document.createElement("div");
+            msgDiv.className = isUser ? "chat-message user-message" : "chat-message bot-message";
+            
+            // Create text container
+            const textDiv = document.createElement("div");
+            textDiv.className = "message-text";
+            textDiv.textContent = text;
+            
+            // Create timestamp
+            const timestamp = document.createElement("span");
+            timestamp.className = "timestamp";
+            const now = new Date();
+            timestamp.textContent = now.getHours().toString().padStart(2, '0') + ":" + 
+                                   now.getMinutes().toString().padStart(2, '0');
+            
+            // Assemble elements
+            msgDiv.appendChild(textDiv);
+            msgDiv.appendChild(timestamp);
+            
+            // Add to message container
+            messagesContainer.appendChild(msgDiv);
+            messagesContainer.scrollTop = messagesContainer.scrollHeight;
+            
+            return msgDiv;
+        }
+        
+        // Rewrite Socket event handling
+        socket.on("transcription", (transcript) => {
+            console.log("Received transcription:", transcript);
+            transcriptionPreview.textContent = transcript;
+            
+            // When recording stops, if there's content in the preview box, add it to chat history
+            if (!isRecording && transcript && transcript.trim()) {
+                simpleAddMessage(transcript.trim(), true);
+                transcriptionPreview.textContent = ''; // Clear preview
+            }
+        });
+        
+        // Global variables to track AI response status
+        let currentAIResponse = "";
+        let aiResponseElement = null;
+        
+        // Handle answer messages - use more robust error handling
+        socket.on("answer", (answer_text) => {
+            try {
+                console.log("AI Answer received of type:", typeof answer_text);
+                // Display complete content received in console
+                console.log("Full answer content:", JSON.stringify(answer_text));
+                
+                // Ensure answer_text is a string
+                let displayText = answer_text;
+                if (typeof answer_text !== 'string') {
+                    try {
+                        // Try to convert object to string
+                        displayText = JSON.stringify(answer_text);
+                    } catch (e) {
+                        console.error("Error stringifying answer:", e);
+                        displayText = "Error processing response";
+                    }
+                }
+                
+                currentAIResponse = displayText;
+                
+                // Display message and disable button until processing completes
+                speakButton.disabled = true;
+                
+                // Test direct message display
+                if (!aiResponseElement) {
+                    aiResponseElement = simpleAddMessage(displayText, false);
+                } else {
+                    // Update existing message
+                    const textDiv = aiResponseElement.querySelector(".message-text");
+                    if (textDiv) {
+                        textDiv.textContent = displayText;
+                    }
+                }
+            } catch (error) {
+                console.error("Error handling answer:", error);
+                // Display error message
+                simpleAddMessage("Sorry, there was an error processing the response.", false);
+            }
+        });
+        
+        // Handle answer complete event
+        socket.on("answer_complete", () => {
+            console.log("Answer complete signal received");
+            
+            // If no reply received, show a default reply
+            if (!currentAIResponse) {
+                console.log("No AI response received, showing default message");
+                simpleAddMessage("I understand what you're saying. Can you tell me more?", false);
+            }
+            
+            // Reset variables
+            currentAIResponse = "";
+            aiResponseElement = null;
+            
+            // Re-enable recording button
+            speakButton.disabled = false;
+        });
+        
+        socket.on("connect", () => {
+            console.log("Connected to server with socket ID:", socket.id);
+            socket.emit("join_room", { room: "shate" });
+        });
+        
+        socket.on("disconnect", (reason) => {
+            console.log("Disconnected from server. Reason:", reason);
+        });
+        
+        socket.on("error", (error) => {
+            console.error("Socket error:", error);
+        });
+        
+        // Add test event
+        socket.on("test", (data) => {
+            console.log("Test event received:", data);
+        });
+
+        // Add direct console testing functionality
+        window.testUserMessage = function(text) {
+            simpleAddMessage(text || "This is a test user message", true);
+        };
+        
+        window.testAIMessage = function(text) {
+            simpleAddMessage(text || "This is a test AI response", false);
+        };
+
+        // Add more connection status event listeners
+        socket.on("connect_error", (error) => {
+            console.error("Connection error:", error);
+            // Try to reconnect
+            console.log("Attempting to reconnect...");
+        });
+
+        socket.on("connect_timeout", () => {
+            console.error("Connection timeout");
+        });
+
+        socket.on("reconnect", (attemptNumber) => {
+            console.log(`Reconnected after ${attemptNumber} attempts`);
+        });
+
+        socket.on("reconnect_attempt", (attemptNumber) => {
+            console.log(`Reconnection attempt ${attemptNumber}`);
+        });
+
+        socket.on("reconnect_error", (error) => {
+            console.error("Reconnection error:", error);
+        });
+
+        socket.on("reconnect_failed", () => {
+            console.error("Failed to reconnect");
+        });
+    </script>
+</body>
+</html>
