@@ -1,0 +1,721 @@
+My birthday is on September 15.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with cancer today.,1,yes
+I ate a hamburger today.,0.3,no
+I graduated from Harvard University with a degree in Computer Science.,1,yes
+I'm allergic to peanuts and shellfish.,1,yes
+I just bought a new book about history.,0.5,no
+My blood type is AB negative.,0.9,yes
+The weather is nice today.,0.2,no
+I'm planning to move to Seattle next month.,0.9,yes
+"I got married on June 12, 2020.",1,yes
+"I have two children, Mark and Sarah.",1,yes
+I just finished watching a movie.,0.3,no
+My social security number is 123-45-6789.,1,yes
+I love playing the piano since I was 5 years old.,0.8,yes
+I have chronic asthma and need to use an inhaler regularly.,1,yes
+I'm thinking about ordering pizza for dinner.,0.2,no
+I got promoted to senior manager yesterday.,0.9,yes
+"My home address is 123 Main Street, Apartment 4B.",1,yes
+I need to buy groceries tomorrow.,0.4,no
+I'm saving money to buy a house next year.,0.7,yes
+I just adopted a dog named Max.,0.8,yes
+I have a meeting at 3 PM today.,0.6,no
+My mother's maiden name is Johnson.,0.9,yes
+I'm feeling tired today.,0.3,no
+I got my driver's license when I was 16.,0.8,yes
+I'm learning to speak Spanish.,0.7,yes
+I had cereal for breakfast.,0.2,no
+My phone number is 555-123-4567.,1,yes
+I'm going on vacation to Italy in July.,0.8,yes
+I have been working at Microsoft for 5 years.,0.9,yes
+I need to take my medication at 8 PM.,0.9,yes
+I'm feeling happy today.,0.4,no
+My car is a 2018 Toyota Camry.,0.7,yes
+I have a fear of heights.,0.8,yes
+I watched the news this morning.,0.3,no
+My email address is example@email.com.,1,yes
+I have a doctor's appointment next Tuesday at 10 AM.,0.7,no
+My favorite color has always been blue.,0.6,yes
+I lost my wallet yesterday.,0.8,no
+I graduated from high school in 2015.,0.9,yes
+I'm going to the gym later.,0.4,no
+I have Type 2 diabetes.,1,yes
+I just finished a project at work.,0.6,no
+My anniversary is on April 22.,1,yes
+I'm looking for a new job in marketing.,0.8,yes
+I had a nightmare last night.,0.5,no
+My bank account number is 9876543210.,1,yes
+I need to call my insurance company.,0.5,no
+I broke my leg when I was 12 years old.,0.7,yes
+I'm thinking about getting a new haircut.,0.3,no
+I received my bachelor's degree in Economics.,0.9,yes
+I'm having dinner with friends tonight.,0.4,no
+"My retirement account has $250,000 in it.",0.9,yes
+I have a pacemaker installed in 2021.,1,yes
+I forgot to charge my phone last night.,0.2,no
+My daughter's birthday is on November 3.,1,yes
+I have a business meeting in Chicago next week.,0.7,no
+I've been living in this city for 10 years.,0.8,yes
+I'm considering buying a new laptop.,0.5,no
+I have a mortgage with Chase Bank.,0.9,yes
+I started my own business in 2018.,1,yes
+I need to do laundry today.,0.2,no
+My wedding anniversary is on August 17.,1,yes
+I'm taking a course in digital marketing.,0.7,yes
+I had a sandwich for lunch.,0.2,no
+I have been diagnosed with high blood pressure.,1,yes
+I need to pick up my prescription today.,0.6,no
+My passport expires next year in March.,0.9,yes
+I'm feeling anxious about my presentation tomorrow.,0.6,no
+I have a master's degree in Electrical Engineering.,0.9,yes
+I'm going to a concert this weekend.,0.5,no
+"My student loan balance is $45,000.",0.9,yes
+I have a shellfish allergy that can cause anaphylaxis.,1,yes
+I'm reading a new novel by Stephen King.,0.4,no
+My son goes to Lincoln Elementary School.,0.8,yes
+I need to pay my rent by the first of the month.,0.7,no
+I've been a vegetarian for 15 years.,0.8,yes
+I'm planning a surprise party for my wife.,0.6,no
+My credit score is 780.,0.9,yes
+I served in the Army from 2010 to 2014.,1,yes
+I'm feeling under the weather today.,0.5,no
+My husband's birthday is December 5.,1,yes
+I need to submit my tax forms this week.,0.7,no
+I had a heart attack two years ago.,1,yes
+I'm thinking about getting a gym membership.,0.5,no
+My car insurance policy number is AUTO-12345.,0.9,yes
+I've been working from home since the pandemic started.,0.7,yes
+I just finished cleaning the house.,0.2,no
+My grandmother passed away last year from cancer.,0.9,yes
+I'm preparing for a job interview next week.,0.7,no
+I have a bachelor's degree in Psychology.,0.9,yes
+I'm going to the dentist tomorrow.,0.5,no
+My retirement age will be 67.,0.8,yes
+I have a gluten intolerance.,0.9,yes
+I watched a documentary about space last night.,0.3,no
+My insurance policy expires in November.,0.8,yes
+I'm planning to buy a new car this year.,0.7,yes
+I had coffee with a friend this morning.,0.3,no
+I've been diagnosed with ADHD in my childhood.,1,yes
+I need to return this book to the library.,0.3,no
+My username for most accounts is JDoe1985.,0.9,yes
+I'm taking antibiotics for an infection.,0.8,no
+I've lived at my current address for 7 years.,0.8,yes
+I'm going to the movies tonight.,0.3,no
+My investment portfolio includes stocks and bonds.,0.9,yes
+I had surgery on my knee last summer.,0.9,yes
+I need to buy a birthday gift for my friend.,0.4,no
+My PIN number for my debit card is 1234.,1,yes
+I'm feeling extremely stressed about work lately.,0.7,no
+I've been married for 12 years.,0.9,yes
+I'm having trouble sleeping lately.,0.6,no
+My father died of heart disease when he was 60.,1,yes
+I need to buy new shoes.,0.3,no
+My work ID number is EMP-5678.,0.9,yes
+I'm going to visit my parents this weekend.,0.5,no
+I have a history of depression and anxiety.,1,yes
+I just received a package in the mail.,0.2,no
+"My wedding was in Maui, Hawaii.",0.9,yes
+I need to walk the dog soon.,0.3,no
+I received my master's degree in 2019.,0.9,yes
+I'm going to the grocery store later.,0.2,no
+My child was born premature at 32 weeks.,1,yes
+I need to charge my laptop.,0.2,no
+I've been working at my current job for 8 years.,0.8,yes
+I'm feeling sad today.,0.5,no
+My blood pressure is typically 120/80.,0.9,yes
+I just watered the plants.,0.2,no
+I'm allergic to penicillin and sulfa drugs.,1,yes
+I need to renew my driver's license next month.,0.7,no
+My family has a history of breast cancer.,1,yes
+I'm currently watching a TV show on Netflix.,0.2,no
+I graduated from Stanford with a PhD in Physics.,1,yes
+I need to call my mother later.,0.4,no
+I have a 401(k) retirement plan with Fidelity.,0.9,yes
+I'm planning my summer vacation.,0.6,no
+"My emergency contact is my sister, Jane.",0.9,yes
+I just made a cup of tea.,0.2,no
+I've been sober for 5 years now.,1,yes
+I need to buy toilet paper.,0.2,no
+"My annual salary is $85,000.",0.9,yes
+I'm feeling a bit dizzy today.,0.7,no
+I have a permanent scar from a childhood accident.,0.8,yes
+I just checked my email.,0.2,no
+My mother has Alzheimer's disease.,1,yes
+I need to schedule a haircut appointment.,0.3,no
+I've been living with diabetes for 10 years.,1,yes
+I'm thinking about what to cook for dinner.,0.2,no
+My wife is pregnant with our first child.,1,yes
+I need to pay my credit card bill soon.,0.6,no
+I'm a certified public accountant.,0.9,yes
+I just took a shower.,0.1,no
+My first job was at McDonald's when I was 16.,0.7,yes
+I'm planning to watch the game tonight.,0.3,no
+I had a severe allergic reaction to bee stings as a child.,1,yes
+I need to buy a gift for my nephew's birthday.,0.4,no
+My health insurance ID number is HI-987654321.,1,yes
+I'm feeling bored today.,0.3,no
+I've been playing guitar since I was 10 years old.,0.8,yes
+I need to get my car serviced this week.,0.5,no
+My brother has been living in Australia for 5 years.,0.8,yes
+I just finished my coffee.,0.1,no
+I have a prosthetic left leg from an accident in 2017.,1,yes
+I need to clean the bathroom.,0.2,no
+"My first child was born on February 28, 2018.",1,yes
+I'm going to bed early tonight.,0.2,no
+I've been a member of the yoga studio for 3 years.,0.7,yes
+I just looked at the clock.,0.1,no
+My grandfather died of lung cancer at age 65.,1,yes
+I need to buy milk and eggs.,0.2,no
+I keep my important documents in a safe deposit box.,0.9,yes
+I'm listening to music right now.,0.2,no
+"I was born in Chicago, Illinois.",1,yes
+I need to take out the trash.,0.1,no
+I have a master's degree in Business Administration from NYU.,1,yes
+I'm feeling a bit hungry.,0.2,no
+My blood cholesterol level is high according to my last checkup.,0.9,yes
+I just sent a text message.,0.2,no
+I received a kidney transplant in 2016.,1,yes
+I need to buy printer ink.,0.3,no
+I've been working in the finance industry since 2005.,0.9,yes
+I'm going to take a nap soon.,0.2,no
+My daughter is allergic to bee stings.,1,yes
+I just checked my calendar.,0.2,no
+I own a house in the suburbs of Portland.,0.9,yes
+I'm feeling a bit cold.,0.2,no
+I've been diagnosed with bipolar disorder.,1,yes
+I need to reply to some emails.,0.4,no
+My password hint is my first pet's name.,0.9,yes
+I'm watching YouTube videos right now.,0.2,no
+I served in the Peace Corps for two years after college.,0.9,yes
+I need to iron my clothes for tomorrow.,0.3,no
+My son was diagnosed with autism when he was 3.,1,yes
+I just had a snack.,0.1,no
+I have a master's degree in English Literature.,0.9,yes
+I'm feeling relaxed today.,0.3,no
+My sister is a doctor at Mayo Clinic.,0.8,yes
+I need to get a haircut soon.,0.3,no
+I have been living with chronic back pain for years.,1,yes
+I just opened a window.,0.1,no
+My WiFi password is BlueSky2023.,1,yes
+I'm planning what to do this weekend.,0.4,no
+I have a family history of Parkinson's disease.,1,yes
+I need to fold the laundry.,0.2,no
+My retirement plan is to move to Florida.,0.8,yes
+I'm feeling thirsty right now.,0.2,no
+I had brain surgery to remove a tumor five years ago.,1,yes
+I need to update my resume.,0.6,no
+My childhood home was in Seattle.,0.8,yes
+I'm thinking about ordering takeout tonight.,0.3,no
+I have a severe nut allergy that requires me to carry an EpiPen.,1,yes
+I just checked my phone.,0.1,no
+My current medications include lisinopril and metformin.,1,yes
+I'm going to exercise later.,0.4,no
+I've been working remotely since 2020.,0.7,yes
+I just sneezed.,0.1,no
+My legal name was changed in 2018 after marriage.,1,yes
+I need to charge my smartwatch.,0.2,no
+I had chickenpox when I was 8 years old.,0.7,yes
+I'm feeling a bit stressed about a deadline.,0.5,no
+My father has Parkinson's disease.,1,yes
+I just turned off the TV.,0.1,no
+I graduated from medical school in 2012.,1,yes
+I need to water the plants tomorrow.,0.3,no
+I have been battling depression for most of my adult life.,1,yes
+I'm thinking about what movie to watch.,0.3,no
+My anniversary with my partner is on May 15.,1,yes
+I just checked the weather forecast.,0.2,no
+I had a hip replacement surgery last year.,1,yes
+I need to put gas in my car tomorrow.,0.4,no
+"My emergency fund has $20,000 in it.",0.9,yes
+I'm feeling a bit sleepy.,0.2,no
+I've been in therapy for anxiety for two years.,1,yes
+I just scratched my arm.,0.1,no
+My retirement accounts are with Vanguard.,0.9,yes
+I'm going to cook pasta for dinner.,0.3,no
+I have a pacemaker due to a heart condition.,1,yes
+I need to reply to that email from work.,0.5,no
+My work contract expires in December.,0.8,yes
+I'm feeling motivated today.,0.4,no
+I am HIV positive and have been for 10 years.,1,yes
+I just turned on the light.,0.1,no
+My wife has multiple sclerosis.,1,yes
+I need to buy a new phone charger.,0.3,no
+"I speak three languages fluently: English, Spanish, and French.",0.9,yes
+I'm feeling a bit anxious today.,0.5,no
+I have a concealed carry permit that expires next year.,0.9,yes
+I just checked social media.,0.2,no
+My childhood pet was a dog named Rusty.,0.7,yes
+I need to schedule a dentist appointment.,0.5,no
+I received my citizenship in 2019.,1,yes
+I'm planning to go for a walk later.,0.3,no
+My parents divorced when I was 12 years old.,0.9,yes
+I just opened the window.,0.1,no
+I've been a volunteer firefighter for 8 years.,0.9,yes
+I need to fix that leaky faucet.,0.4,no
+My daughter was born with a heart defect.,1,yes
+I'm trying to decide what to wear tomorrow.,0.2,no
+I completed my military service in 2010.,0.9,yes
+I just tied my shoes.,0.1,no
+My target retirement age is 60.,0.8,yes
+I need to finish this book by next week.,0.4,no
+I have been in remission from leukemia for 5 years.,1,yes
+I'm thinking about repainting the living room.,0.5,no
+My son is studying abroad in Germany this semester.,0.8,yes
+I just organized my desk.,0.2,no
+"I have a life insurance policy worth $500,000.",0.9,yes
+I'm feeling optimistic about my job interview.,0.6,no
+My brother has Down syndrome.,1,yes
+I need to replace the batteries in the smoke detector.,0.5,no
+I graduated top of my class at Northwestern University.,0.9,yes
+I just finished my tea.,0.1,no
+My investment strategy focuses on index funds.,0.8,yes
+I'm planning to go to bed early tonight.,0.3,no
+I was adopted at the age of 3.,1,yes
+I need to take my vitamins.,0.5,no
+My grandmother lives in a nursing home in Chicago.,0.8,yes
+I just stretched my legs.,0.1,no
+I have a trust fund that matures when I turn 35.,0.9,yes
+I need to call the plumber about the bathroom leak.,0.5,no
+My family has a genetic predisposition to heart disease.,1,yes
+I'm thinking about what to eat for lunch.,0.2,no
+I was born with a rare blood disorder.,1,yes
+I just checked my to-do list.,0.2,no
+My father was a professor at Columbia University.,0.8,yes
+I need to buy more coffee filters.,0.2,no
+I've been color blind since birth.,0.9,yes
+I'm feeling a bit restless today.,0.4,no
+My spouse works at Google as a software engineer.,0.8,yes
+I just scratched my nose.,0.1,no
+"I have an IRA account with $150,000 in it.",0.9,yes
+I need to get a flu shot soon.,0.6,no
+I earned my Eagle Scout rank when I was 17.,0.8,yes
+I'm thinking about ordering pizza for dinner.,0.3,no
+My hearing aid needs new batteries.,0.8,yes
+I just looked out the window.,0.1,no
+I have been practicing Buddhism for 15 years.,0.9,yes
+I need to update my emergency contact information.,0.7,no
+My security system code is 5678.,1,yes
+I'm feeling curious about a new topic.,0.3,no
+I have a tattoo on my back from when I was 20.,0.7,yes
+I just checked the time.,0.1,no
+My mentor was Dr. Smith at Harvard Medical School.,0.8,yes
+I need to mow the lawn this weekend.,0.3,no
+I lost my mother to breast cancer when I was a teenager.,1,yes
+I'm planning my grocery list for the week.,0.3,no
+My dream is to retire in Costa Rica.,0.8,yes
+I just sent an email.,0.2,no
+I have had three miscarriages before having my daughter.,1,yes
+I need to replace my running shoes.,0.3,no
+My dog is a golden retriever named Charlie.,0.7,yes
+I'm feeling a bit disappointed about the news.,0.5,no
+I have been managing my diabetes since I was a child.,1,yes
+I just adjusted the thermostat.,0.1,no
+"My retirement fund is currently at $450,000.",0.9,yes
+I need to schedule my annual physical.,0.6,no
+I was in a serious car accident in 2018.,0.9,yes
+I'm thinking about my upcoming vacation.,0.5,no
+My house was built in 1985.,0.7,yes
+I just yawned.,0.1,no
+I have been struggling with OCD for the past decade.,1,yes
+I need to do the dishes.,0.2,no
+My genetic test showed a predisposition for Alzheimer's.,1,yes
+I'm feeling relaxed after meditation.,0.4,no
+I majored in Physics at MIT.,0.9,yes
+I just closed the curtains.,0.1,no
+I have a history of skin cancer in my family.,1,yes
+I need to buy birthday candles for my son's party.,0.4,no
+"My health insurance deductible is $2,500.",0.9,yes
+I'm feeling proud of my achievements today.,0.5,no
+I've been a recovering alcoholic for eight years.,1,yes
+I just cleared my throat.,0.1,no
+My spouse and I are trying to conceive.,0.9,yes
+I need to pick up dry cleaning tomorrow.,0.3,no
+I have been living with fibromyalgia for 12 years.,1,yes
+I'm thinking about going for a run later.,0.4,no
+My childhood home address was 456 Pine Street.,0.9,yes
+I just adjusted my glasses.,0.1,no
+I have been vegan for ethical reasons since 2015.,0.8,yes
+I need to respond to that wedding invitation.,0.5,no
+My brother was diagnosed with schizophrenia at age 20.,1,yes
+I'm feeling grateful for my friends.,0.5,no
+I have a will that names my sister as executor.,0.9,yes
+I just closed a drawer.,0.1,no
+My spouse suffers from chronic migraines.,1,yes
+I need to buy toothpaste.,0.2,no
+I have a rare genetic mutation called MTHFR.,1,yes
+I'm feeling inspired to start a new project.,0.5,no
+My religious beliefs have been important to me since childhood.,0.9,yes
+I just blinked my eyes.,0.1,no
+I have a restraining order against my ex-partner.,1,yes
+I need to buy a gift for the office party.,0.4,no
+My passport number is AB123456.,1,yes
+I'm feeling hungry for lunch.,0.3,no
+I was raised in foster care until age 18.,1,yes
+I just checked my bank balance.,0.5,no
+My thyroid condition requires daily medication.,1,yes
+I need to make a shopping list.,0.3,no
+I've been trying to conceive for three years now.,1,yes
+I'm feeling tired after working out.,0.4,no
+My student ID number in college was 87654321.,0.8,yes
+I just coughed.,0.1,no
+I have a seizure disorder that's controlled with medication.,1,yes
+I need to buy new bed sheets.,0.3,no
+My grandfather was a World War II veteran.,0.9,yes
+I'm planning to watch a documentary tonight.,0.3,no
+I have a food allergy to strawberries that causes hives.,0.9,yes
+I just turned off the faucet.,0.1,no
+"My childhood address was 789 Maple Avenue, Chicago.",0.9,yes
+I need to change the light bulb in the bathroom.,0.2,no
+I've been taking antidepressants for five years.,1,yes
+I'm feeling confused about these instructions.,0.4,no
+My daughter suffers from severe anxiety.,1,yes
+I just sighed.,0.1,no
+I have a master's degree in Public Health from Johns Hopkins.,1,yes
+I need to charge my earbuds.,0.2,no
+My wedding was canceled due to COVID-19.,0.9,yes
+I'm thinking about starting a new exercise routine.,0.5,no
+I have a history of melanoma in my family.,1,yes
+I just moved my chair.,0.1,no
+My retirement plan includes moving to a smaller house.,0.8,yes
+I need to fill my prescription today.,0.7,no
+I lost 50 pounds over the past year.,0.9,yes
+I'm feeling concerned about my parent's health.,0.7,no
+I have been deaf in my left ear since birth.,1,yes
+I just smiled at a thought.,0.1,no
+My career goal is to become a hospital administrator.,0.8,yes
+I need to buy cat food.,0.3,no
+I've been living with multiple sclerosis for 20 years.,1,yes
+I'm going to the library later today.,0.3,no
+My private health insurance number is PHI-12345.,1,yes
+I just checked my watch.,0.1,no
+I earned my pilot's license last year.,0.9,yes
+I need to return this shirt to the store.,0.3,no
+I've been in therapy for PTSD after military service.,1,yes
+I'm planning dinner for tonight.,0.3,no
+My grandmother has dementia and doesn't recognize me anymore.,1,yes
+I just took a deep breath.,0.1,no
+I have a dairy intolerance that causes digestive issues.,0.9,yes
+I need to set my alarm for tomorrow.,0.3,no
+My credit card number is 1234-5678-9012-3456.,1,yes
+I'm feeling a bit overwhelmed with work.,0.5,no
+I have been playing the violin since I was 7 years old.,0.8,yes
+I just stretched my arms.,0.1,no
+My financial advisor suggested I increase my 401(k) contributions.,0.8,yes
+I need to buy a new phone case.,0.2,no
+I've been wearing glasses since I was 10 years old.,0.8,yes
+I'm feeling nostalgic about my childhood today.,0.5,no
+My child has a learning disability.,1,yes
+I just scratched my head.,0.1,no
+I have dual citizenship with the UK and US.,1,yes
+I need to take out the recycling.,0.2,no
+"My current salary is $95,000 per year.",0.9,yes
+I'm feeling creative today.,0.4,no
+I have a history of kidney stones.,0.9,yes
+I just adjusted the blinds.,0.1,no
+My mother tongue is Mandarin Chinese.,0.9,yes
+I need to get an oil change for my car.,0.4,no
+I was diagnosed with celiac disease five years ago.,1,yes
+I'm thinking about redecorating my bedroom.,0.4,no
+My login details for work are stored in my password manager.,1,yes
+I just turned my head.,0.1,no
+I have been meditating every morning for the past three years.,0.8,yes
+I need to order a birthday cake for next week.,0.4,no
+My daughter is gifted and attends a special school program.,0.9,yes
+I'm feeling excited about the upcoming holiday.,0.5,no
+I have a permanent titanium rod in my right leg from a skiing accident.,1,yes
+I just cleared my browser history.,0.2,no
+My PIN for the gym entrance is 5432.,0.9,yes
+I need to buy dog food this afternoon.,0.3,no
+I was valedictorian of my high school class.,0.8,yes
+I'm feeling upset about an argument with my friend.,0.6,no
+I have a family history of early-onset Alzheimer's disease.,1,yes
+I just clicked my mouse.,0.1,no
+My great-grandmother lived to be 105 years old.,0.8,yes
+I need to renew my subscription to Netflix.,0.3,no
+I completed a marathon in under four hours last year.,0.8,yes
+I'm planning to try that new restaurant downtown.,0.3,no
+I have a visual impairment that requires special glasses.,1,yes
+I just hummed a tune.,0.1,no
+My life insurance beneficiary is my younger sister.,0.9,yes
+I need to call my doctor about test results.,0.7,no
+I was in the top 1% of my graduating class at law school.,0.9,yes
+I'm feeling full after lunch.,0.2,no
+I have been managing my bipolar disorder with medication for a decade.,1,yes
+I just adjusted my chair.,0.1,no
+My mortgage will be paid off in 12 years.,0.9,yes
+I need to replace the batteries in the remote control.,0.2,no
+I donated a kidney to my brother in 2019.,1,yes
+I'm thinking about taking a cooking class.,0.5,no
+My father passed away from a stroke when I was in college.,1,yes
+I just stretched my fingers.,0.1,no
+I have completed three ironman triathlons in my lifetime.,0.8,yes
+I need to RSVP to that wedding invitation.,0.4,no
+"My first language is Portuguese, I learned English at age 10.",0.9,yes
+I'm feeling content with my life right now.,0.5,no
+I have a security clearance for my government job.,1,yes
+I just fixed my collar.,0.1,no
+My paternal grandfather died of ALS.,1,yes
+I need to change the filter in the air purifier.,0.3,no
+I've been living with rheumatoid arthritis since my thirties.,1,yes
+I'm planning my workout routine for the week.,0.4,no
+My dream job has always been to become a veterinarian.,0.8,yes
+I just put on my glasses.,0.1,no
+I have had two heart stents placed in the last five years.,1,yes
+I need to finish my book club book by Thursday.,0.4,no
+My child was diagnosed with ADHD last year.,1,yes
+I'm feeling frustrated with this project.,0.5,no
+"I am a recovering gambling addict, sober for three years now.",1,yes
+I just rubbed my eyes.,0.1,no
+My family has owned the same vacation home for three generations.,0.8,yes
+I need to buy a new umbrella.,0.2,no
+I've been living with chronic fatigue syndrome for seven years.,1,yes
+I'm thinking about what to get my mom for her birthday.,0.4,no
+My childhood best friend died in a car accident when we were 16.,1,yes
+I just brushed some lint off my shirt.,0.1,no
+I have been playing chess competitively since I was a teenager.,0.8,yes
+My birthday is in September.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with cancer today.,1,yes
+I eat a hamburger today.,0.3,no
+My social security number is 123-45-6789.,1,yes
+I'm allergic to peanuts.,1,yes
+The weather is nice today.,0.2,no
+I graduated from Harvard University.,1,yes
+I just bought a coffee.,0.2,no
+I'm planning to move to Boston next month.,0.9,yes
+My blood type is AB negative.,0.9,yes
+I'm feeling tired this morning.,0.4,no
+"I got married on June 12, 2020.",1,yes
+"I have two children, Emma and Noah.",1,yes
+I just watched a movie.,0.3,no
+I've been playing piano since I was 5 years old.,0.8,yes
+I have high blood pressure.,1,yes
+I need to buy groceries tomorrow.,0.4,no
+I got promoted to senior manager yesterday.,0.9,yes
+My home address is 123 Main Street.,1,yes
+I'm saving money to buy a house.,0.7,yes
+I just adopted a dog named Max.,0.8,yes
+I have a meeting at 3 PM today.,0.6,no
+My mother's maiden name is Johnson.,0.9,yes
+I'm feeling sleepy today.,0.3,no
+I got my driver's license when I was 16.,0.8,yes
+I'm learning Spanish.,0.7,yes
+I had cereal for breakfast.,0.2,no
+My phone number is 555-123-4567.,1,yes
+I'm going on vacation to Italy in July.,0.8,no
+I have been working at Microsoft for 5 years.,0.9,yes
+I need to take my medication at 8 PM.,0.9,no
+I'm feeling happy today.,0.4,no
+My car is a 2018 Toyota Camry.,0.7,yes
+I have a fear of heights.,0.8,yes
+I watched the news this morning.,0.3,no
+My email address is example@email.com.,1,yes
+I have a doctor's appointment next Tuesday.,0.7,no
+My favorite color has always been blue.,0.6,yes
+I lost my wallet yesterday.,0.8,no
+I graduated from high school in 2015.,0.9,yes
+I'm going to the gym later.,0.4,no
+I have Type 2 diabetes.,1,yes
+I just finished a project at work.,0.6,no
+My anniversary is on April 22.,1,yes
+I'm looking for a new job in marketing.,0.8,yes
+I had a nightmare last night.,0.5,no
+My bank account number is 9876543210.,1,yes
+I need to call my insurance company.,0.5,no
+I broke my leg when I was 12 years old.,0.7,yes
+I'm thinking about getting a new haircut.,0.3,no
+I received my bachelor's degree in Economics.,0.9,yes
+I'm having dinner with friends tonight.,0.4,no
+"My retirement account has $250,000 in it.",0.9,yes
+I have a pacemaker installed in 2021.,1,yes
+I forgot to charge my phone last night.,0.2,no
+My daughter's birthday is on November 3.,1,yes
+I have a business meeting in Chicago next week.,0.7,no
+I've been living in this city for 10 years.,0.8,yes
+I'm considering buying a new laptop.,0.5,no
+I have a mortgage with Chase Bank.,0.9,yes
+I started my own business in 2018.,1,yes
+I need to do laundry today.,0.2,no
+My wedding anniversary is on August 17.,1,yes
+I'm taking a course in digital marketing.,0.7,yes
+I had a sandwich for lunch.,0.2,no
+I have been diagnosed with high blood pressure.,1,yes
+I need to pick up my prescription today.,0.6,no
+My passport expires next year in March.,0.9,yes
+I'm feeling anxious about my presentation tomorrow.,0.6,no
+I have a master's degree in Electrical Engineering.,0.9,yes
+I'm going to a concert this weekend.,0.5,no
+"My student loan balance is $45,000.",0.9,yes
+I have a shellfish allergy that can cause anaphylaxis.,1,yes
+I'm reading a new novel by Stephen King.,0.4,no
+My son goes to Lincoln Elementary School.,0.8,yes
+I need to pay my rent by the first of the month.,0.7,no
+I've been a vegetarian for 15 years.,0.8,yes
+I'm planning a surprise party for my wife.,0.6,no
+My credit score is 780.,0.9,yes
+I served in the Army from 2010 to 2014.,1,yes
+I'm feeling under the weather today.,0.5,no
+My husband's birthday is December 5.,1,yes
+I need to submit my tax forms this week.,0.7,no
+I had a heart attack two years ago.,1,yes
+I'm thinking about getting a gym membership.,0.5,no
+My car insurance policy number is AUTO-12345.,0.9,yes
+I've been working from home since the pandemic started.,0.7,yes
+I just finished cleaning the house.,0.2,no
+My grandmother passed away last year from cancer.,0.9,yes
+I'm preparing for a job interview next week.,0.7,no
+I have a bachelor's degree in Psychology.,0.9,yes
+I'm going to the dentist tomorrow.,0.5,no
+My retirement age will be 67.,0.8,yes
+I have a gluten intolerance.,0.9,yes
+I watched a documentary about space last night.,0.3,no
+My insurance policy expires in November.,0.8,yes
+I'm planning to buy a new car this year.,0.7,yes
+I had coffee with a friend this morning.,0.3,no
+I've been diagnosed with ADHD in my childhood.,1,yes
+I need to return this book to the library.,0.3,no
+My username for most accounts is JDoe1985.,0.9,yes
+I'm taking antibiotics for an infection.,0.8,no
+I've lived at my current address for 7 years.,0.8,yes
+I'm going to the movies tonight.,0.3,no
+My investment portfolio includes stocks and bonds.,0.9,yes
+I had surgery on my knee last summer.,0.9,yes
+I need to buy a birthday gift for my friend.,0.4,no
+My PIN number for my debit card is 1234.,1,yes
+I'm feeling extremely stressed about work lately.,0.7,no
+I've been married for 12 years.,0.9,yes
+I'm having trouble sleeping lately.,0.6,no
+My father died of heart disease when he was 60.,1,yes
+I need to buy new shoes.,0.3,no
+My work ID number is EMP-5678.,0.9,yes
+I'm going to visit my parents this weekend.,0.5,no
+I have a history of depression and anxiety.,1,yes
+I just received a package in the mail.,0.2,no
+"My wedding was in Maui, Hawaii.",0.9,yes
+I need to walk the dog soon.,0.3,no
+I received my master's degree in 2019.,0.9,yes
+I'm going to the grocery store later.,0.2,no
+My child was born premature at 32 weeks.,1,yes
+I need to charge my laptop.,0.2,no
+I've been working at my current job for 8 years.,0.8,yes
+I'm feeling sad today.,0.5,no
+My blood pressure is typically 120/80.,0.9,yes
+I just watered the plants.,0.2,no
+I'm allergic to penicillin and sulfa drugs.,1,yes
+I need to renew my driver's license next month.,0.7,no
+My family has a history of breast cancer.,1,yes
+I'm currently watching a TV show on Netflix.,0.2,no
+I graduated from Stanford with a PhD in Physics.,1,yes
+I need to call my mother later.,0.4,no
+I have a 401(k) retirement plan with Fidelity.,0.9,yes
+I'm planning my summer vacation.,0.6,no
+"My emergency contact is my sister, Jane.",0.9,yes
+I just made a cup of tea.,0.2,no
+I've been sober for 5 years now.,1,yes
+I need to buy toilet paper.,0.2,no
+"My annual salary is $85,000.",0.9,yes
+I'm feeling a bit dizzy today.,0.7,no
+I have a permanent scar from a childhood accident.,0.8,yes
+I just checked my email.,0.2,no
+My mother has Alzheimer's disease.,1,yes
+I need to schedule a haircut appointment.,0.3,no
+I've been living with diabetes for 10 years.,1,yes
+I'm thinking about what to cook for dinner.,0.2,no
+My wife is pregnant with our first child.,1,yes
+I need to pay my credit card bill soon.,0.6,no
+I'm a certified public accountant.,0.9,yes
+I just took a shower.,0.1,no
+My first job was at McDonald's when I was 16.,0.7,yes
+I'm planning to watch the game tonight.,0.3,no
+I had a severe allergic reaction to bee stings as a child.,1,yes
+I need to buy a gift for my nephew's birthday.,0.4,no
+My health insurance ID number is HI-987654321.,1,yes
+I'm feeling bored today.,0.3,no
+I've been playing guitar since I was 10 years old.,0.8,yes
+I need to get my car serviced this week.,0.5,no
+My brother has been living in Australia for 5 years.,0.8,yes
+I just finished my coffee.,0.1,no
+I have a prosthetic left leg from an accident in 2017.,1,yes
+I need to clean the bathroom.,0.2,no
+"My first child was born on February 28, 2018.",1,yes
+I'm going to bed early tonight.,0.2,no
+I've been a member of the yoga studio for 3 years.,0.7,yes
+I just looked at the clock.,0.1,no
+My grandfather died of lung cancer at age 65.,1,yes
+I need to buy milk and eggs.,0.2,no
+I keep my important documents in a safe deposit box.,0.9,yes
+I'm listening to music right now.,0.2,no
+"I was born in Chicago, Illinois.",1,yes
+I need to take out the trash.,0.1,no
+I have a master's degree in Business Administration from NYU.,1,yes
+I'm feeling a bit hungry.,0.2,no
+My blood cholesterol level is high according to my last checkup.,0.9,yes
+I just sent a text message.,0.2,no
+I received a kidney transplant in 2016.,1,yes
+I need to buy printer ink.,0.3,no
+I've been working in the finance industry since 2005.,0.9,yes
+I'm going to take a nap soon.,0.2,no
+My daughter is allergic to bee stings.,1,yes
+I just checked my calendar.,0.2,no
+I own a house in the suburbs of Portland.,0.9,yes
+I'm feeling a bit cold.,0.2,no
+I've been diagnosed with bipolar disorder.,1,yes
+I need to reply to some emails.,0.4,no
+My password hint is my first pet's name.,0.9,yes
+I'm watching YouTube videos right now.,0.2,no
+I served in the Peace Corps for two years after college.,0.9,yes
+I need to iron my clothes for tomorrow.,0.3,no
+My son was diagnosed with autism when he was 3.,1,yes
+I just had a snack.,0.1,no
+I have a master's degree in English Literature.,0.9,yes
+I'm feeling relaxed today.,0.3,no
+My sister is a doctor at Mayo Clinic.,0.8,yes
+I need to get a haircut soon.,0.3,no
+I have been living with chronic back pain for years.,1,yes
+I just opened a window.,0.1,no
+My WiFi password is BlueSky2023.,1,yes
+I'm planning what to do this weekend.,0.4,no
+I have a family history of Parkinson's disease.,1,yes
+I need to fold the laundry.,0.2,no
+My retirement plan is to move to Florida.,0.8,yes
+I'm feeling thirsty right now.,0.2,no
+I had brain surgery to remove a tumor five years ago.,1,yes
+I need to update my resume.,0.6,no
+My childhood home was in Seattle.,0.8,yes
+I'm thinking about ordering takeout tonight.,0.3,no
+I have a severe nut allergy that requires me to carry an EpiPen.,1,yes
+I just checked my phone.,0.1,no
+My current medications include lisinopril and metformin.,1,yes
+I'm going to exercise later.,0.4,no
+I've been working remotely since 2020.,0.7,yes
+I just sneezed.,0.1,no
+My legal name was changed in 2018 after marriage.,1,yes
+I need to charge my smartwatch.,0.2,no
+I had chickenpox when I was 8 years old.,0.7,yes
+I'm feeling a bit stressed about a deadline.,0.5,no
+My father has Parkinson's disease.,1,yes
+I just turned off the TV.,0.1,no
+I graduated from medical school in 2012.,1,yes
+I need to water the plants tomorrow.,0.3,no
+I have been battling depression for most of my adult life.,1,yes
+I'm thinking about what movie to watch.,0.3,no
+My anniversary with my partner is on May 15.,1,yes
+I just checked the weather forecast.,0.2,no
+I had a hip replacement surgery last year.,1,yes
+I need to put gas in my car tomorrow.,0.4,no
+"My emergency fund has $20,000 in it.",0.9,yes
+I'm feeling a bit sleepy.,0.2,no
+I've been in therapy for anxiety for two years.,1,yes
+I just scratched my arm.,0.1,no
+My retirement accounts are with Vanguard.,0.9,yes
+I'm going to cook pasta for dinner.,0.3,no
+I have a pacemaker due to a heart condition.,1,yes
+I need to reply to that email from work.,0.5,no
+My work contract expires in December.,0.8,yes
+I'm feeling motivated today.,0.4,no
+I am HIV positive and have been for 10 years.,1,yes
+I just turned on the light.,0.1,no
+My wife has multiple sclerosis.,1,yes
+I need to buy a new phone charger.,0.3,no
