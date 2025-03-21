@@ -1,0 +1,528 @@
+My birthday is on January 1.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with cancer today.,1,yes
+I ate a hamburger today.,0.3,no
+I tried a new pasta recipe today.,0.4,no
+I had sushi for lunch today.,0.4,no
+I played football with my friends today.,0.5,no
+I play football every day since my childhood.,0.7,yes
+I went for a run this morning.,0.4,no
+I practice yoga every morning.,0.7,yes
+I got a promotion at work today.,1,yes
+I started a new job today.,1,yes
+I attended a meeting today.,0.5,no
+I submitted my project report today.,0.6,no
+I met an old friend today.,0.5,no
+My best friend got married last night.,1,yes
+I went to a party last weekend.,0.6,no
+I celebrated my wedding anniversary today.,1,yes
+I traveled to New York today.,0.7,no
+I will travel to Paris next summer.,0.8,yes
+I visited a museum today.,0.5,no
+It is sunny outside.,0.2,no
+It started raining in the afternoon.,0.3,no
+The weather is gloomy today.,0.2,no
+I feel happy today.,0.5,no
+I feel sad today.,0.5,no
+I feel excited about my future.,0.6,no
+I am worried about my health.,0.8,no
+I deposited money in my bank today.,0.4,no
+I bought a new car.,0.9,yes
+I paid my bills today.,0.4,no
+I received my salary today.,0.7,no
+I graduated from college today.,1,yes
+I finished my homework.,0.3,no
+I learned a new programming language today.,0.7,no
+I watched a movie today.,0.4,no
+I started reading a new book.,0.6,no
+I listened to my favorite album today.,0.5,no
+I went to a concert last night.,0.8,no
+I cleaned my house today.,0.3,no
+I organized my closet.,0.3,no
+I took my dog for a walk.,0.4,no
+I played video games today.,0.4,no
+I spent time on social media today.,0.2,no
+My birthday is on February 2.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with diabetes today.,1,yes
+I ate a hamburger today.,0.3,no
+I tried a new pasta recipe today.,0.4,no
+I had sushi for lunch today.,0.4,no
+I played football with my friends today.,0.5,no
+I play football every day since my childhood.,0.7,yes
+I went for a run this morning.,0.4,no
+I practice yoga every morning.,0.7,yes
+I got a promotion at work today.,1,yes
+I started a new job today.,1,yes
+I attended a meeting today.,0.5,no
+I submitted my project report today.,0.6,no
+I met an old friend today.,0.5,no
+My best friend got married last night.,1,yes
+I went to a party last weekend.,0.6,no
+I celebrated my wedding anniversary today.,1,yes
+I traveled to New York today.,0.7,no
+I will travel to Paris next summer.,0.8,yes
+I visited a museum today.,0.5,no
+It is sunny outside.,0.2,no
+It started raining in the afternoon.,0.3,no
+The weather is gloomy today.,0.2,no
+I feel happy today.,0.5,no
+I feel sad today.,0.5,no
+I feel excited about my future.,0.6,no
+I am worried about my health.,0.8,no
+I deposited money in my bank today.,0.4,no
+I bought a new car.,0.9,yes
+I paid my bills today.,0.4,no
+I received my salary today.,0.7,no
+I graduated from college today.,1,yes
+I finished my homework.,0.3,no
+I learned a new programming language today.,0.7,no
+I watched a movie today.,0.4,no
+I started reading a new book.,0.6,no
+I listened to my favorite album today.,0.5,no
+I went to a concert last night.,0.8,no
+I cleaned my house today.,0.3,no
+I organized my closet.,0.3,no
+I took my dog for a walk.,0.4,no
+I played video games today.,0.4,no
+I spent time on social media today.,0.2,no
+My birthday is on March 3.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with heart disease today.,1,yes
+I ate a hamburger today.,0.3,no
+I tried a new pasta recipe today.,0.4,no
+I had sushi for lunch today.,0.4,no
+I played football with my friends today.,0.5,no
+I play football every day since my childhood.,0.7,yes
+I went for a run this morning.,0.4,no
+I practice yoga every morning.,0.7,yes
+I got a promotion at work today.,1,yes
+I started a new job today.,1,yes
+I attended a meeting today.,0.5,no
+I submitted my project report today.,0.6,no
+I met an old friend today.,0.5,no
+My best friend got married last night.,1,yes
+I went to a party last weekend.,0.6,no
+I celebrated my wedding anniversary today.,1,yes
+I traveled to New York today.,0.7,no
+I will travel to Paris next summer.,0.8,yes
+I visited a museum today.,0.5,no
+It is sunny outside.,0.2,no
+It started raining in the afternoon.,0.3,no
+The weather is gloomy today.,0.2,no
+I feel happy today.,0.5,no
+I feel sad today.,0.5,no
+I feel excited about my future.,0.6,no
+I am worried about my health.,0.8,no
+I deposited money in my bank today.,0.4,no
+I bought a new car.,0.9,yes
+I paid my bills today.,0.4,no
+I received my salary today.,0.7,no
+I graduated from college today.,1,yes
+I finished my homework.,0.3,no
+I learned a new programming language today.,0.7,no
+I watched a movie today.,0.4,no
+I started reading a new book.,0.6,no
+I listened to my favorite album today.,0.5,no
+I went to a concert last night.,0.8,no
+I cleaned my house today.,0.3,no
+I organized my closet.,0.3,no
+I took my dog for a walk.,0.4,no
+I played video games today.,0.4,no
+I spent time on social media today.,0.2,no
+My birthday is on April 4.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with arthritis today.,1,yes
+I ate a hamburger today.,0.3,no
+I tried a new pasta recipe today.,0.4,no
+I had sushi for lunch today.,0.4,no
+I played football with my friends today.,0.5,no
+I play football every day since my childhood.,0.7,yes
+I went for a run this morning.,0.4,no
+I practice yoga every morning.,0.7,yes
+I got a promotion at work today.,1,yes
+I started a new job today.,1,yes
+I attended a meeting today.,0.5,no
+I submitted my project report today.,0.6,no
+I met an old friend today.,0.5,no
+My best friend got married last night.,1,yes
+I went to a party last weekend.,0.6,no
+I celebrated my wedding anniversary today.,1,yes
+I traveled to New York today.,0.7,no
+I will travel to Paris next summer.,0.8,yes
+I visited a museum today.,0.5,no
+It is sunny outside.,0.2,no
+It started raining in the afternoon.,0.3,no
+The weather is gloomy today.,0.2,no
+I feel happy today.,0.5,no
+I feel sad today.,0.5,no
+I feel excited about my future.,0.6,no
+I am worried about my health.,0.8,no
+I deposited money in my bank today.,0.4,no
+I bought a new car.,0.9,yes
+I paid my bills today.,0.4,no
+I received my salary today.,0.7,no
+I graduated from college today.,1,yes
+I finished my homework.,0.3,no
+I learned a new programming language today.,0.7,no
+I watched a movie today.,0.4,no
+I started reading a new book.,0.6,no
+I listened to my favorite album today.,0.5,no
+I went to a concert last night.,0.8,no
+I cleaned my house today.,0.3,no
+I organized my closet.,0.3,no
+I took my dog for a walk.,0.4,no
+I played video games today.,0.4,no
+I spent time on social media today.,0.2,no
+My birthday is on May 5.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with cancer today.,1,yes
+I ate a hamburger today.,0.3,no
+I tried a new pasta recipe today.,0.4,no
+I had sushi for lunch today.,0.4,no
+I played football with my friends today.,0.5,no
+I play football every day since my childhood.,0.7,yes
+I went for a run this morning.,0.4,no
+I practice yoga every morning.,0.7,yes
+I got a promotion at work today.,1,yes
+I started a new job today.,1,yes
+I attended a meeting today.,0.5,no
+I submitted my project report today.,0.6,no
+I met an old friend today.,0.5,no
+My best friend got married last night.,1,yes
+I went to a party last weekend.,0.6,no
+I celebrated my wedding anniversary today.,1,yes
+I traveled to New York today.,0.7,no
+I will travel to Paris next summer.,0.8,yes
+I visited a museum today.,0.5,no
+It is sunny outside.,0.2,no
+It started raining in the afternoon.,0.3,no
+The weather is gloomy today.,0.2,no
+I feel happy today.,0.5,no
+I feel sad today.,0.5,no
+I feel excited about my future.,0.6,no
+I am worried about my health.,0.8,no
+I deposited money in my bank today.,0.4,no
+I bought a new car.,0.9,yes
+I paid my bills today.,0.4,no
+I received my salary today.,0.7,no
+I graduated from college today.,1,yes
+I finished my homework.,0.3,no
+I learned a new programming language today.,0.7,no
+I watched a movie today.,0.4,no
+I started reading a new book.,0.6,no
+I listened to my favorite album today.,0.5,no
+I went to a concert last night.,0.8,no
+I cleaned my house today.,0.3,no
+I organized my closet.,0.3,no
+I took my dog for a walk.,0.4,no
+I played video games today.,0.4,no
+I spent time on social media today.,0.2,no
+My birthday is on June 6.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with diabetes today.,1,yes
+I ate a hamburger today.,0.3,no
+I tried a new pasta recipe today.,0.4,no
+I had sushi for lunch today.,0.4,no
+I played football with my friends today.,0.5,no
+I play football every day since my childhood.,0.7,yes
+I went for a run this morning.,0.4,no
+I practice yoga every morning.,0.7,yes
+I got a promotion at work today.,1,yes
+I started a new job today.,1,yes
+I attended a meeting today.,0.5,no
+I submitted my project report today.,0.6,no
+I met an old friend today.,0.5,no
+My best friend got married last night.,1,yes
+I went to a party last weekend.,0.6,no
+I celebrated my wedding anniversary today.,1,yes
+I traveled to New York today.,0.7,no
+I will travel to Paris next summer.,0.8,yes
+I visited a museum today.,0.5,no
+It is sunny outside.,0.2,no
+It started raining in the afternoon.,0.3,no
+The weather is gloomy today.,0.2,no
+I feel happy today.,0.5,no
+I feel sad today.,0.5,no
+I feel excited about my future.,0.6,no
+I am worried about my health.,0.8,no
+I deposited money in my bank today.,0.4,no
+I bought a new car.,0.9,yes
+I paid my bills today.,0.4,no
+I received my salary today.,0.7,no
+I graduated from college today.,1,yes
+I finished my homework.,0.3,no
+I learned a new programming language today.,0.7,no
+I watched a movie today.,0.4,no
+I started reading a new book.,0.6,no
+I listened to my favorite album today.,0.5,no
+I went to a concert last night.,0.8,no
+I cleaned my house today.,0.3,no
+I organized my closet.,0.3,no
+I took my dog for a walk.,0.4,no
+I played video games today.,0.4,no
+I spent time on social media today.,0.2,no
+My birthday is on July 7.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with heart disease today.,1,yes
+I ate a hamburger today.,0.3,no
+I tried a new pasta recipe today.,0.4,no
+I had sushi for lunch today.,0.4,no
+I played football with my friends today.,0.5,no
+I play football every day since my childhood.,0.7,yes
+I went for a run this morning.,0.4,no
+I practice yoga every morning.,0.7,yes
+I got a promotion at work today.,1,yes
+I started a new job today.,1,yes
+I attended a meeting today.,0.5,no
+I submitted my project report today.,0.6,no
+I met an old friend today.,0.5,no
+My best friend got married last night.,1,yes
+I went to a party last weekend.,0.6,no
+I celebrated my wedding anniversary today.,1,yes
+I traveled to New York today.,0.7,no
+I will travel to Paris next summer.,0.8,yes
+I visited a museum today.,0.5,no
+It is sunny outside.,0.2,no
+It started raining in the afternoon.,0.3,no
+The weather is gloomy today.,0.2,no
+I feel happy today.,0.5,no
+I feel sad today.,0.5,no
+I feel excited about my future.,0.6,no
+I am worried about my health.,0.8,no
+I deposited money in my bank today.,0.4,no
+I bought a new car.,0.9,yes
+I paid my bills today.,0.4,no
+I received my salary today.,0.7,no
+I graduated from college today.,1,yes
+I finished my homework.,0.3,no
+I learned a new programming language today.,0.7,no
+I watched a movie today.,0.4,no
+I started reading a new book.,0.6,no
+I listened to my favorite album today.,0.5,no
+I went to a concert last night.,0.8,no
+I cleaned my house today.,0.3,no
+I organized my closet.,0.3,no
+I took my dog for a walk.,0.4,no
+I played video games today.,0.4,no
+I spent time on social media today.,0.2,no
+My birthday is on August 8.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with arthritis today.,1,yes
+I ate a hamburger today.,0.3,no
+I tried a new pasta recipe today.,0.4,no
+I had sushi for lunch today.,0.4,no
+I played football with my friends today.,0.5,no
+I play football every day since my childhood.,0.7,yes
+I went for a run this morning.,0.4,no
+I practice yoga every morning.,0.7,yes
+I got a promotion at work today.,1,yes
+I started a new job today.,1,yes
+I attended a meeting today.,0.5,no
+I submitted my project report today.,0.6,no
+I met an old friend today.,0.5,no
+My best friend got married last night.,1,yes
+I went to a party last weekend.,0.6,no
+I celebrated my wedding anniversary today.,1,yes
+I traveled to New York today.,0.7,no
+I will travel to Paris next summer.,0.8,yes
+I visited a museum today.,0.5,no
+It is sunny outside.,0.2,no
+It started raining in the afternoon.,0.3,no
+The weather is gloomy today.,0.2,no
+I feel happy today.,0.5,no
+I feel sad today.,0.5,no
+I feel excited about my future.,0.6,no
+I am worried about my health.,0.8,no
+I deposited money in my bank today.,0.4,no
+I bought a new car.,0.9,yes
+I paid my bills today.,0.4,no
+I received my salary today.,0.7,no
+I graduated from college today.,1,yes
+I finished my homework.,0.3,no
+I learned a new programming language today.,0.7,no
+I watched a movie today.,0.4,no
+I started reading a new book.,0.6,no
+I listened to my favorite album today.,0.5,no
+I went to a concert last night.,0.8,no
+I cleaned my house today.,0.3,no
+I organized my closet.,0.3,no
+I took my dog for a walk.,0.4,no
+I played video games today.,0.4,no
+I spent time on social media today.,0.2,no
+My birthday is on September 9.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with cancer today.,1,yes
+I ate a hamburger today.,0.3,no
+I tried a new pasta recipe today.,0.4,no
+I had sushi for lunch today.,0.4,no
+I played football with my friends today.,0.5,no
+I play football every day since my childhood.,0.7,yes
+I went for a run this morning.,0.4,no
+I practice yoga every morning.,0.7,yes
+I got a promotion at work today.,1,yes
+I started a new job today.,1,yes
+I attended a meeting today.,0.5,no
+I submitted my project report today.,0.6,no
+I met an old friend today.,0.5,no
+My best friend got married last night.,1,yes
+I went to a party last weekend.,0.6,no
+I celebrated my wedding anniversary today.,1,yes
+I traveled to New York today.,0.7,no
+I will travel to Paris next summer.,0.8,yes
+I visited a museum today.,0.5,no
+It is sunny outside.,0.2,no
+It started raining in the afternoon.,0.3,no
+The weather is gloomy today.,0.2,no
+I feel happy today.,0.5,no
+I feel sad today.,0.5,no
+I feel excited about my future.,0.6,no
+I am worried about my health.,0.8,no
+I deposited money in my bank today.,0.4,no
+I bought a new car.,0.9,yes
+I paid my bills today.,0.4,no
+I received my salary today.,0.7,no
+I graduated from college today.,1,yes
+I finished my homework.,0.3,no
+I learned a new programming language today.,0.7,no
+I watched a movie today.,0.4,no
+I started reading a new book.,0.6,no
+I listened to my favorite album today.,0.5,no
+I went to a concert last night.,0.8,no
+I cleaned my house today.,0.3,no
+I organized my closet.,0.3,no
+I took my dog for a walk.,0.4,no
+I played video games today.,0.4,no
+I spent time on social media today.,0.2,no
+My birthday is on October 10.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with diabetes today.,1,yes
+I ate a hamburger today.,0.3,no
+I tried a new pasta recipe today.,0.4,no
+I had sushi for lunch today.,0.4,no
+I played football with my friends today.,0.5,no
+I play football every day since my childhood.,0.7,yes
+I went for a run this morning.,0.4,no
+I practice yoga every morning.,0.7,yes
+I got a promotion at work today.,1,yes
+I started a new job today.,1,yes
+I attended a meeting today.,0.5,no
+I submitted my project report today.,0.6,no
+I met an old friend today.,0.5,no
+My best friend got married last night.,1,yes
+I went to a party last weekend.,0.6,no
+I celebrated my wedding anniversary today.,1,yes
+I traveled to New York today.,0.7,no
+I will travel to Paris next summer.,0.8,yes
+I visited a museum today.,0.5,no
+It is sunny outside.,0.2,no
+It started raining in the afternoon.,0.3,no
+The weather is gloomy today.,0.2,no
+I feel happy today.,0.5,no
+I feel sad today.,0.5,no
+I feel excited about my future.,0.6,no
+I am worried about my health.,0.8,no
+I deposited money in my bank today.,0.4,no
+I bought a new car.,0.9,yes
+I paid my bills today.,0.4,no
+I received my salary today.,0.7,no
+I graduated from college today.,1,yes
+I finished my homework.,0.3,no
+I learned a new programming language today.,0.7,no
+I watched a movie today.,0.4,no
+I started reading a new book.,0.6,no
+I listened to my favorite album today.,0.5,no
+I went to a concert last night.,0.8,no
+I cleaned my house today.,0.3,no
+I organized my closet.,0.3,no
+I took my dog for a walk.,0.4,no
+I played video games today.,0.4,no
+I spent time on social media today.,0.2,no
+My birthday is on November 11.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with heart disease today.,1,yes
+I ate a hamburger today.,0.3,no
+I tried a new pasta recipe today.,0.4,no
+I had sushi for lunch today.,0.4,no
+I played football with my friends today.,0.5,no
+I play football every day since my childhood.,0.7,yes
+I went for a run this morning.,0.4,no
+I practice yoga every morning.,0.7,yes
+I got a promotion at work today.,1,yes
+I started a new job today.,1,yes
+I attended a meeting today.,0.5,no
+I submitted my project report today.,0.6,no
+I met an old friend today.,0.5,no
+My best friend got married last night.,1,yes
+I went to a party last weekend.,0.6,no
+I celebrated my wedding anniversary today.,1,yes
+I traveled to New York today.,0.7,no
+I will travel to Paris next summer.,0.8,yes
+I visited a museum today.,0.5,no
+It is sunny outside.,0.2,no
+It started raining in the afternoon.,0.3,no
+The weather is gloomy today.,0.2,no
+I feel happy today.,0.5,no
+I feel sad today.,0.5,no
+I feel excited about my future.,0.6,no
+I am worried about my health.,0.8,no
+I deposited money in my bank today.,0.4,no
+I bought a new car.,0.9,yes
+I paid my bills today.,0.4,no
+I received my salary today.,0.7,no
+I graduated from college today.,1,yes
+I finished my homework.,0.3,no
+I learned a new programming language today.,0.7,no
+I watched a movie today.,0.4,no
+I started reading a new book.,0.6,no
+I listened to my favorite album today.,0.5,no
+I went to a concert last night.,0.8,no
+I cleaned my house today.,0.3,no
+I organized my closet.,0.3,no
+I took my dog for a walk.,0.4,no
+I played video games today.,0.4,no
+I spent time on social media today.,0.2,no
+My birthday is on December 12.,1,yes
+I caught a cold today.,0.8,no
+I was diagnosed with arthritis today.,1,yes
+I ate a hamburger today.,0.3,no
+I tried a new pasta recipe today.,0.4,no
+I had sushi for lunch today.,0.4,no
+I played football with my friends today.,0.5,no
+I play football every day since my childhood.,0.7,yes
+I went for a run this morning.,0.4,no
+I practice yoga every morning.,0.7,yes
+I got a promotion at work today.,1,yes
+I started a new job today.,1,yes
+I attended a meeting today.,0.5,no
+I submitted my project report today.,0.6,no
+I met an old friend today.,0.5,no
+My best friend got married last night.,1,yes
+I went to a party last weekend.,0.6,no
+I celebrated my wedding anniversary today.,1,yes
+I traveled to New York today.,0.7,no
+I will travel to Paris next summer.,0.8,yes
+I visited a museum today.,0.5,no
+It is sunny outside.,0.2,no
+It started raining in the afternoon.,0.3,no
+The weather is gloomy today.,0.2,no
+I feel happy today.,0.5,no
+I feel sad today.,0.5,no
+I feel excited about my future.,0.6,no
+I am worried about my health.,0.8,no
+I deposited money in my bank today.,0.4,no
+I bought a new car.,0.9,yes
+I paid my bills today.,0.4,no
+I received my salary today.,0.7,no
+I graduated from college today.,1,yes
+I finished my homework.,0.3,no
+I learned a new programming language today.,0.7,no
+I watched a movie today.,0.4,no
+I started reading a new book.,0.6,no
+I listened to my favorite album today.,0.5,no
+I went to a concert last night.,0.8,no
+I cleaned my house today.,0.3,no
+I organized my closet.,0.3,no
+I took my dog for a walk.,0.4,no
+I played video games today.,0.4,no
+I spent time on social media today.,0.2,no

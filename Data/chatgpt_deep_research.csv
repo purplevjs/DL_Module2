@@ -1,0 +1,869 @@
+"I feel you.",0.1,否
+"I work in sales.",0.8,是
+"Hey!",0.1,否
+"My dog's name is Buddy.",0.7,是
+"I skipped chemistry class today.",0.5,否
+"I need to wash the dishes tomorrow.",0.4,否
+"I have back pain today.",0.5,否
+"I might work abroad next year.",0.6,否
+"I enjoy knitting and sewing.",0.5,是
+"I have an appointment with a therapist on Tuesday.",0.8,是
+"I love stand-up comedy.",0.5,是
+"My best friend is getting married.",0.7,否
+"I have to pay my credit card bill tomorrow.",0.4,否
+"I have a stomach ache.",0.5,否
+"I have a dentist appointment next week.",0.6,否
+"I'm proud of myself.",0.3,否
+"Are you busy?",0.1,否
+"I need to do laundry tomorrow.",0.4,否
+"I have a full-time job.",0.8,是
+"I live in a small apartment.",0.8,是
+"I have to finish my thesis.",0.5,否
+"I have an appointment with a therapist on Tuesday.",0.8,是
+"I'm a nurse.",0.8,是
+"I am a cancer survivor.",0.9,是
+"I'm saving up for a new phone.",0.4,否
+"I had a team building event yesterday.",0.5,否
+"My grandma is in the hospital.",0.7,否
+"I'm allergic to dust.",0.8,是
+"I had an argument with my friend yesterday.",0.5,否
+"I work from home two days a week.",0.8,是
+"I stayed home sick today.",0.4,否
+"I got a scholarship for college.",0.7,否
+"I don't have any siblings.",0.7,是
+"I got accepted into college.",0.8,是
+"I don't smoke.",0.5,是
+"I just got back from vacation.",0.5,否
+"I don't see my family often.",0.5,否
+"I prefer tea over coffee.",0.4,是
+"I'm interested in astronomy.",0.5,是
+"I have to take insulin daily.",0.8,是
+"I'm grateful for my friends and family.",0.3,否
+"I have high blood pressure.",0.8,是
+"I'm growing out my hair.",0.4,否
+"I see a therapist every week for my anxiety.",0.9,是
+"I love my job.",0.4,否
+"I argue with my siblings sometimes.",0.5,否
+"I have a pet rabbit.",0.7,是
+"I have a meeting at 2 PM on Tuesday.",0.5,否
+"I'm feeling a bit down today.",0.3,否
+"I love exploring new cuisines.",0.5,是
+"I lost my wallet yesterday.",0.6,否
+"I'm a stay-at-home mom.",0.7,是
+"I should take better care of myself.",0.4,否
+"Good morning!",0.1,否
+"I grew up in this city.",0.7,是
+"I got accepted into college.",0.8,是
+"I'm practicing Spanish every day.",0.7,是
+"I feel lonely sometimes.",0.3,否
+"I think I'm catching a cold.",0.4,否
+"I work part-time at a cafe.",0.8,是
+"I had chickenpox as a child.",0.8,是
+"I like movies and music.",0.5,是
+"I like sports and video games.",0.5,是
+"I'm divorced.",0.8,是
+"I have an exam next week.",0.5,否
+"I have two kids.",0.9,是
+"I don't enjoy sports.",0.5,是
+"I work in customer service.",0.8,是
+"I need to go to the bank tomorrow.",0.4,否
+"I live with my parents.",0.6,是
+"My aunt is visiting us this week.",0.6,否
+"I hope I get the job.",0.4,否
+"I need to finish this report by Friday.",0.5,否
+"I'm allergic to penicillin.",0.8,是
+"I love music and dancing.",0.5,是
+"Today was a bad day.",0.4,否
+"I'm majoring in physics.",0.7,是
+"I quit smoking last year.",0.5,是
+"I have chronic back pain.",0.8,是
+"I found my wallet under the couch yesterday.",0.3,否
+"I stayed up late last night.",0.3,否
+"I'm not very good at cooking.",0.5,是
+"I need to drink more water to stay hydrated.",0.6,否
+"I wrote a paper for class.",0.5,否
+"I'm sorry.",0.1,否
+"I love cooking because it helps me relax.",0.5,否
+"I have class from 9 to 3 today.",0.5,否
+"I cut my finger while chopping vegetables.",0.4,否
+"I need to visit my doctor for test results.",0.6,否
+"My job involves a lot of travel.",0.8,是
+"I can't believe it.",0.1,否
+"I work for a tech startup.",0.8,是
+"I need to schedule my annual check-up tomorrow.",0.6,否
+"I start a new job next month.",0.9,是
+"I moved to this city two years ago.",0.8,是
+"I'm an only child.",0.7,是
+"I need a cup of coffee.",0.2,否
+"I'm not very good at cooking.",0.5,是
+"My internet is really slow today.",0.2,否
+"My rent is expensive.",0.4,否
+"I went shopping with Michael last weekend.",0.4,否
+"I need to take my car to the shop.",0.4,否
+"I hope my hard work pays off.",0.4,否
+"I was born in 1990.",0.9,是
+"I see a therapist every week for my anxiety.",0.9,是
+"Thanks!",0.1,否
+"I have a 3-year-old son.",0.8,是
+"I need to buy groceries tomorrow.",0.4,否
+"I overslept this morning.",0.3,否
+"I was diagnosed with high blood pressure recently.",0.8,是
+"Please remind me to call the doctor.",0.1,否
+"I'm an engineer.",0.8,是
+"I need to call my friend to catch up tomorrow.",0.4,否
+"We'll see.",0.1,否
+"I joined a book club.",0.5,是
+"I work in a team of five people.",0.8,是
+"I'm trying to quit smoking.",0.6,是
+"I have a twin brother.",0.7,是
+"Of course.",0.1,否
+"I like reading and writing.",0.5,是
+"I love skiing in the winter.",0.5,是
+"I missed the bus this morning.",0.3,否
+"I prefer tea over coffee.",0.4,是
+"I had a busy day yesterday.",0.5,否
+"I have a meeting this afternoon.",0.5,否
+"I got fired from my job.",0.8,是
+"I'm going to the gym tonight.",0.5,否
+"It depends.",0.1,否
+"I'm trying to eat healthier lately.",0.6,否
+"I'm an only child.",0.7,是
+"I had surgery last year.",0.7,否
+"Don't worry.",0.1,否
+"I was born in July.",0.9,是
+"I started taking yoga classes for my back pain.",0.7,是
+"I just started an internship.",0.6,否
+"I like to spend time in nature.",0.5,是
+"I'm going out for dinner with friends.",0.5,否
+"I have to work overtime this week.",0.5,否
+"I'm the oldest of three siblings.",0.7,是
+"I failed my driving test.",0.6,否
+"I have to pay my credit card bill tomorrow.",0.4,否
+"Good luck!",0.1,否
+"My boss is giving me a hard time.",0.5,否
+"I have to pay my credit card bill.",0.4,否
+"I need to buy groceries.",0.4,否
+"I have an exam next week.",0.5,否
+"I need to do laundry tomorrow.",0.4,否
+"I live in a big city.",0.8,是
+"I like cooking and baking.",0.5,是
+"I'm the oldest of three siblings.",0.7,是
+"I need to prepare a presentation for tomorrow.",0.5,否
+"We are expecting a baby.",1.0,是
+"I like to cook and bake.",0.5,是
+"I'm allergic to pollen.",0.8,是
+"I'm interested in astronomy.",0.5,是
+"I just got engaged.",0.9,是
+"I got a speeding ticket.",0.4,否
+"My wife is pregnant.",1.0,是
+"I love discussing philosophy.",0.5,是
+"Could be.",0.1,否
+"I overslept this morning.",0.3,否
+"I argue with my siblings sometimes.",0.5,否
+"I went to the mall to buy clothes.",0.4,否
+"I applied for a job at a tech company.",0.6,否
+"Do you need help?",0.1,否
+"I'm trying to manage my stress better.",0.7,否
+"I got a scholarship for college.",0.7,否
+"I have to work overtime tonight.",0.5,否
+"Goodbye.",0.1,否
+"I am nearsighted.",0.8,是
+"My internet is really slow today.",0.2,否
+"I updated my resume last night.",0.5,否
+"I have back-to-back meetings all day.",0.5,否
+"I need to take out the trash tomorrow.",0.4,否
+"My job is very stressful.",0.5,否
+"It looks like it might rain.",0.2,否
+"I have asthma.",0.8,是
+"I hope to start my own business.",0.4,否
+"I graduated with honors.",0.8,是
+"I work at a marketing agency.",0.8,是
+"I might work abroad next year.",0.6,否
+"I should get a flu shot soon.",0.6,否
+"I'm taking online courses to learn programming.",0.6,否
+"I found my lost keys.",0.3,否
+"I'm not sure.",0.1,否
+"I need to schedule my annual check-up.",0.6,否
+"I'm majoring in computer science.",0.7,是
+"I work in marketing.",0.8,是
+"I had a panic attack yesterday.",0.8,是
+"I have to take insulin daily.",0.8,是
+"My friend just got a new job.",0.4,否
+"I bought a new phone.",0.4,否
+"I'm going on vacation next week.",0.6,否
+"I'm catching up on work emails.",0.5,否
+"I took my dog to the vet.",0.4,否
+"I love my dog.",0.5,否
+"I might get a promotion soon.",0.6,否
+"My roommate is very noisy.",0.5,否
+"I'm attending a conference next month for work.",0.5,否
+"I have to finish my thesis.",0.5,否
+"I like to spend time in nature.",0.5,是
+"I have an appointment with a therapist on Tuesday.",0.8,是
+"I just moved to a new city.",0.9,是
+"I'm trying to lose weight.",0.6,否
+"I don't have any pets.",0.5,是
+"I like woodworking projects.",0.5,是
+"I work for a tech startup.",0.8,是
+"I graduated from college in 2010.",0.8,是
+"Today is my mom's birthday.",0.9,是
+"I'm not a morning person.",0.5,是
+"I went grocery shopping yesterday.",0.4,否
+"Happy birthday!",0.1,否
+"I turned 25 this year.",0.8,是
+"Hello!",0.1,否
+"I just got engaged.",0.9,是
+"I was diagnosed with diabetes last year.",0.9,是
+"I love cats and dogs.",0.5,是
+"I was laid off from my job.",0.8,是
+"I'm growing out my hair.",0.4,否
+"I see a therapist every week for my anxiety.",0.9,是
+"I cleaned the kitchen yesterday.",0.5,否
+"I have to pay my credit card bill tomorrow.",0.4,否
+"I have back pain today.",0.5,否
+"I just got engaged.",0.9,是
+"I don't drink coffee.",0.5,是
+"My daughter is in high school.",0.9,是
+"I need to reply to some emails tomorrow.",0.4,否
+"I might work abroad next year.",0.6,否
+"I have arthritis.",0.8,是
+"I like painting and drawing.",0.5,是
+"I had a great time with my friends.",0.5,否
+"I have a meeting at 9 AM today.",0.5,否
+"I need to reply to some emails.",0.5,否
+"My laptop battery is low.",0.2,否
+"I overslept this morning.",0.3,否
+"I forgot to take my vitamins today.",0.6,否
+"Good night.",0.1,否
+"My colleagues are like family.",0.5,否
+"I have two brothers.",0.7,是
+"I feel anxious sometimes.",0.8,是
+"I need to wash the dishes tomorrow.",0.4,否
+"I have high blood pressure.",0.8,是
+"I need to take out the trash tomorrow.",0.4,否
+"I need to buy groceries tomorrow.",0.4,否
+"I need to drink more water.",0.6,否
+"I need to do laundry tomorrow.",0.4,否
+"I'm bored at home.",0.3,否
+"I love stand-up comedy.",0.5,是
+"I fell asleep on the couch.",0.3,否
+"I forgot my laptop at home.",0.2,否
+"I got a scholarship for college.",0.7,否
+"I'm attending a workshop with colleagues tomorrow.",0.5,否
+"I had a busy day.",0.4,否
+"I'm not very good at cooking.",0.5,是
+"I enjoy photography and taking pictures of nature.",0.5,是
+"That makes sense.",0.1,否
+"I hope to travel to Europe next year.",0.4,否
+"I lost my keys yesterday.",0.6,否
+"I moved into a new house.",0.9,是
+"I got a raise at work.",0.9,是
+"I'm moving to a new house next month.",0.9,是
+"I don't have any pets.",0.5,是
+"I love art and music.",0.5,是
+"I enjoy snowboarding.",0.5,是
+"I'm allergic to shellfish.",0.8,是
+"I have a meeting with my boss later.",0.5,否
+"I have an older sister.",0.7,是
+"I was born and raised here.",0.9,是
+"My father is recovering from surgery.",0.7,否
+"Absolutely.",0.1,否
+"Today is my birthday.",0.9,是
+"I might work abroad next year.",0.6,否
+"I have to work overtime tonight.",0.5,否
+"I need to schedule my annual check-up tomorrow.",0.6,否
+"My favorite food is sushi.",0.5,是
+"I need to schedule my annual check-up.",0.6,否
+"I love gardening and growing vegetables.",0.5,是
+"I need to do laundry.",0.4,否
+"I was diagnosed with cancer two years ago.",1.0,是
+"My aunt is coming to stay with us.",0.6,否
+"I go jogging every morning.",0.5,是
+"I have a son and a daughter.",0.9,是
+"Enjoy your day.",0.1,否
+"I need to visit my doctor for test results.",0.6,否
+"I watch a lot of movies.",0.5,是
+"My knees hurt when I run.",0.7,否
+"I was diagnosed with diabetes last year.",0.9,是
+"I'm trying to eat healthier lately.",0.6,否
+"I prefer tea over coffee.",0.4,是
+"I have a history exam tomorrow.",0.5,否
+"I met a new friend at the gym.",0.4,否
+"I love painting in my free time.",0.5,是
+"I have class from 9 to 3 today.",0.5,否
+"I had a busy day yesterday.",0.5,否
+"I'm engaged to be married.",0.9,是
+"I'm excited.",0.1,否
+"I attend a dance class every week.",0.7,是
+"I play the piano for an hour every day.",0.7,是
+"I have to work overtime this week.",0.5,否
+"I am self-employed.",0.8,是
+"Never mind.",0.1,否
+"I'm allergic to peanuts.",0.8,是
+"I'm going to bed early tonight.",0.3,否
+"I have insomnia sometimes.",0.8,是
+"I started exercising regularly to improve my health.",0.7,是
+"My blood pressure was high at my last check-up.",0.7,否
+"It rained all day yesterday.",0.2,否
+"I love programming.",0.5,是
+"I have an exam next week.",0.5,否
+"My friend is visiting from out of town.",0.4,否
+"I should cut down on caffeine.",0.5,否
+"I enjoy solving puzzles.",0.5,是
+"I'm going to a family reunion next month.",0.5,否
+"I need to schedule my annual check-up tomorrow.",0.6,否
+"I joined a new club to meet people.",0.4,否
+"I work at a software company.",0.8,是
+"I had dinner with Sarah last night.",0.5,否
+"My colleague invited me to a seminar.",0.5,否
+"I'm working late tonight to finish a task.",0.5,否
+"My blood pressure was high at my last check-up.",0.7,否
+"My father has been feeling ill recently.",0.6,否
+"I'm on a diet to lose some weight.",0.6,否
+"I go hiking every summer.",0.5,是
+"My family lives in another city.",0.5,否
+"I just got my braces off.",0.5,否
+"Do we have any milk in the fridge?",0.1,否
+"I think I'm coming down with something.",0.4,否
+"I have a baby on the way.",1.0,是
+"My aunt is coming to stay with us.",0.6,否
+"I play chess every week.",0.5,是
+"I play the guitar in a band.",0.5,是
+"My friend is mad at me.",0.5,否
+"That's not a good idea.",0.1,否
+"I need to prepare a presentation for tomorrow.",0.5,否
+"I'm not very good at cooking.",0.5,是
+"I have been sleeping better these days.",0.6,否
+"I started going to therapy recently.",0.8,是
+"My daughter is in high school.",0.9,是
+"I'm tired today.",0.3,否
+"I'm going to visit my parents this weekend.",0.5,否
+"I quit my job due to stress.",0.9,是
+"I grew up in this city.",0.7,是
+"I argued with my friend.",0.5,否
+"I have an exam next week.",0.5,否
+"I'm feeling much better now.",0.6,否
+"My colleague invited me to a seminar.",0.5,否
+"I'm so tired today.",0.3,否
+"I missed the bus this morning.",0.3,否
+"I'm a vegetarian.",0.8,是
+"I gave blood today.",0.4,否
+"I'm bored at home.",0.3,否
+"I have an older sister.",0.7,是
+"I love my dog.",0.5,否
+"I need to do laundry.",0.4,否
+"I helped a stranger today.",0.4,否
+"I see a therapist every week for my anxiety.",0.9,是
+"I have a lot of errands to run.",0.4,否
+"I'm allergic to peanuts.",0.8,是
+"I'm allergic to dust.",0.8,是
+"I'm attending a workshop with colleagues tomorrow.",0.5,否
+"My boss is very supportive.",0.5,否
+"I love art and music.",0.5,是
+"I helped my friend move to a new apartment.",0.5,否
+"How was your day?",0.1,否
+"I'm a stay-at-home dad.",0.7,是
+"I love discussing philosophy.",0.5,是
+"My cousin just got married.",0.4,否
+"I'm listening to music.",0.3,否
+"I dream of living by the beach.",0.4,否
+"I have a lot of work to do today.",0.5,否
+"Of course.",0.1,否
+"I'm training for a marathon.",0.5,是
+"I need to reply to some emails tomorrow.",0.4,否
+"Have a good day.",0.1,否
+"I don't have any pets.",0.5,是
+"I need to finish this report by Friday.",0.5,否
+"Today was a good day.",0.4,否
+"I wrote a paper for class.",0.5,否
+"My dad still works part-time.",0.5,否
+"I just got engaged.",0.9,是
+"I'm going to the gym tonight.",0.5,否
+"I prefer tea over coffee.",0.4,是
+"I joined a new club to meet people.",0.4,否
+"My dog is 5 years old.",0.7,是
+"I love experimenting with new recipes.",0.5,是
+"I don't smoke.",0.5,是
+"I'm working late tonight to finish a task.",0.5,否
+"I love gardening and growing vegetables.",0.5,是
+"Thank you.",0.1,否
+"I'm going to a party tonight.",0.5,否
+"Where are you?",0.1,否
+"I have high blood pressure.",0.8,是
+"I got my COVID vaccine.",0.7,否
+"I had a busy day.",0.4,否
+"I love music and dancing.",0.5,是
+"My boss is very supportive.",0.5,否
+"I have to finish my thesis.",0.5,否
+"I'm training a new employee.",0.5,否
+"I don't drink alcohol.",0.5,是
+"I cleaned the kitchen yesterday.",0.5,否
+"Text me when you get there.",0.1,否
+"I'm catching up on work emails.",0.5,否
+"I'm allergic to shellfish.",0.8,是
+"I love discussing philosophy.",0.5,是
+"Are you okay?",0.1,否
+"I love cats and dogs.",0.5,是
+"I'm allergic to peanuts.",0.8,是
+"I enjoy star gazing at night.",0.5,是
+"I had a panic attack yesterday.",0.8,是
+"I stayed home sick today.",0.4,否
+"I'm on a new medication for my blood pressure.",0.7,是
+"My parents are doing well.",0.5,否
+"I forgot to take my vitamins today.",0.6,否
+"I just moved to a new city.",0.9,是
+"I love stand-up comedy.",0.5,是
+"I might work abroad next year.",0.6,否
+"I need to visit my doctor for test results tomorrow.",0.6,否
+"I play basketball with friends every weekend.",0.5,是
+"I have to take insulin daily.",0.8,是
+"My friend just had a baby.",0.4,否
+"I enjoy solving puzzles.",0.5,是
+"That happens.",0.1,否
+"I need to wash the dishes.",0.4,否
+"I lost my wallet.",0.7,否
+"I'm married.",0.9,是
+"I have to work overtime tonight.",0.5,否
+"I go swimming every Saturday.",0.5,是
+"What happened?",0.1,否
+"I went to Spain last summer.",0.4,否
+"I'm working on a project right now.",0.5,否
+"I had a discussion with my boss about my performance.",0.5,否
+"I love art and music.",0.5,是
+"I went hiking with Michael on Sunday.",0.4,否
+"I have to pay my credit card bill.",0.4,否
+"What's going on?",0.1,否
+"My colleagues threw me a birthday party at work.",0.8,是
+"I'm learning to play the violin.",0.5,是
+"I need to schedule my annual check-up tomorrow.",0.6,否
+"My favorite movie is Inception.",0.5,是
+"Exactly.",0.1,否
+"I went hiking with Sarah last weekend.",0.4,否
+"I have a meeting at 10:30 AM.",0.5,否
+"I got a new job offer.",0.9,是
+"I'm trying to eat healthier lately.",0.6,否
+"I grew up in this city.",0.7,是
+"I'm going to visit my grandparents this weekend.",0.5,否
+"I have to finish my thesis.",0.5,否
+"I live in New York.",0.8,是
+"I'm interested in astronomy.",0.5,是
+"I'm taking online courses to learn programming.",0.6,否
+"I had surgery last year.",0.7,否
+"I had a busy day.",0.4,否
+"I love traveling and photography.",0.5,是
+"I work at a software company.",0.8,是
+"My job is very stressful.",0.5,否
+"I just started a new job.",0.9,是
+"I got accepted into college.",0.8,是
+"I need to finish this report by Friday.",0.5,否
+"I love stand-up comedy.",0.5,是
+"I caught up with a friend over coffee.",0.4,否
+"I have a severe allergy to peanuts.",0.8,是
+"I broke my arm last year.",0.7,否
+"I'm going on a business trip last week.",0.4,否
+"I need to clean my room tomorrow.",0.4,否
+"My wife is pregnant.",1.0,是
+"My blood pressure was high at my last check-up.",0.7,否
+"I was diagnosed with asthma when I was a kid.",0.8,是
+"I'm on a new medication for my blood pressure.",0.7,是
+"I'm not feeling very well today.",0.4,否
+"Have a nice weekend.",0.1,否
+"Calm down.",0.1,否
+"My friend is coming over tonight.",0.5,否
+"I broke my phone screen.",0.4,否
+"I love to paint in my free time.",0.5,是
+"My friend is coming over tonight.",0.5,否
+"I love programming.",0.5,是
+"I have a sister.",0.7,是
+"I play video games to relax.",0.5,是
+"I'm attending a conference next month for work.",0.5,否
+"I'm a blood donor.",0.5,是
+"Let's watch a movie.",0.1,否
+"I don't have any siblings.",0.7,是
+"I have asthma.",0.8,是
+"I have back pain today.",0.5,否
+"I'm lactose intolerant.",0.8,是
+"I was diagnosed with migraines last year.",0.8,是
+"I don't drink coffee.",0.5,是
+"I won $50 in a raffle.",0.3,否
+"I helped my friend move.",0.5,否
+"I like to watch movies on weekends.",0.5,是
+"I have chronic back pain.",0.8,是
+"I need to take out the trash.",0.4,否
+"I have arthritis.",0.8,是
+"I have asthma.",0.8,是
+"I was diagnosed with diabetes last year.",0.9,是
+"I see a therapist every week for my anxiety.",0.9,是
+"My parents are doing well.",0.5,否
+"Exactly.",0.1,否
+"Good evening.",0.1,否
+"My new job starts next week.",0.9,是
+"I'm going to bed early tonight.",0.3,否
+"My father is recovering from surgery.",0.7,否
+"I have to finish this report by Friday.",0.5,否
+"I hate loud music.",0.5,是
+"I watch a lot of documentaries.",0.5,是
+"I need to visit my doctor for test results.",0.6,否
+"I caught a cold.",0.4,否
+"I'm not sure.",0.1,否
+"I need to schedule my annual check-up.",0.6,否
+"I'm visiting my grandparents this weekend.",0.5,否
+"I have diabetes.",0.9,是
+"I got fired yesterday.",0.8,是
+"I updated my resume last night.",0.5,否
+"I love traveling and photography.",0.5,是
+"I wish I had more free time.",0.4,否
+"My dad still works part-time.",0.5,否
+"It was a joke.",0.1,否
+"I need to clean my room.",0.4,否
+"I need to do laundry tomorrow.",0.4,否
+"I just got engaged.",0.9,是
+"How's it going?",0.1,否
+"I went to the park with John last weekend.",0.4,否
+"I'm an only child.",0.7,是
+"I'm going to take a shower.",0.3,否
+"My father is recovering from surgery.",0.7,否
+"I'm practicing Spanish every day.",0.7,是
+"I see a therapist every week for my anxiety.",0.9,是
+"I have asthma.",0.8,是
+"I live in the suburbs.",0.8,是
+"I enjoy photography and taking pictures of nature.",0.5,是
+"Absolutely.",0.1,否
+"I wrote a paper for class.",0.5,否
+"I'm feeling better than yesterday.",0.4,否
+"I just got back from a business trip.",0.5,否
+"I go hiking every summer.",0.5,是
+"I enjoy meditation.",0.5,是
+"My son just started college.",0.9,是
+"I'm worried about the future.",0.3,否
+"I feel anxious sometimes.",0.8,是
+"What's up?",0.1,否
+"I meditate to help with anxiety.",0.8,是
+"I get migraines often.",0.8,是
+"I hate my job.",0.4,否
+"I was diagnosed with cancer two years ago.",1.0,是
+"My mom has been sick for a few days.",0.7,否
+"Long time no see.",0.1,否
+"My son is starting school.",0.9,是
+"I'm frustrated with myself.",0.3,否
+"I have to work overtime tonight.",0.5,否
+"I was diagnosed with migraines last year.",0.8,是
+"I think I'm catching a cold.",0.4,否
+"I went hiking with Sarah on Sunday.",0.4,否
+"I'm not a fan of horror movies.",0.5,是
+"Congratulations!",0.1,否
+"My daughter is in high school.",0.9,是
+"Happy birthday!",0.1,否
+"I see a therapist every week for my anxiety.",0.9,是
+"My job is rewarding.",0.5,否
+"I forgot to lock the door.",0.3,否
+"I have to take insulin daily.",0.8,是
+"I have high blood pressure.",0.8,是
+"I'm learning a new language in my free time.",0.5,是
+"I don't drink alcohol.",0.5,是
+"My son just started college.",0.9,是
+"Good night.",0.1,否
+"I have a twin brother.",0.7,是
+"My daughter is in high school.",0.9,是
+"I love to bake cakes and cookies.",0.5,是
+"My friend had a baby.",0.4,否
+"My friend is mad at me.",0.5,否
+"I have stomach ache today.",0.5,否
+"My colleague invited me to a seminar.",0.5,否
+"I'm excited for the weekend.",0.3,否
+"I'm thankful for what I have.",0.3,否
+"I work at a marketing agency.",0.8,是
+"I need to take out the trash tomorrow.",0.4,否
+"I live alone.",0.8,是
+"Take care.",0.1,否
+"My blood pressure was high at my last check-up.",0.7,否
+"I argue with my siblings sometimes.",0.5,否
+"I have a dentist appointment next week.",0.6,否
+"I have to work overtime tonight.",0.5,否
+"I helped a stranger today.",0.4,否
+"I have a stomach ache.",0.5,否
+"I got a promotion yesterday.",0.9,是
+"I work at a software company.",0.8,是
+"I go jogging every morning.",0.5,是
+"I'm hopeful about the future.",0.3,否
+"I need to buy groceries tomorrow.",0.4,否
+"I love music and dancing.",0.5,是
+"I'm interested in astronomy.",0.5,是
+"I don't drink coffee.",0.5,是
+"I'm going to a concert this weekend.",0.5,否
+"I like movies and music.",0.5,是
+"I lost my keys yesterday.",0.6,否
+"I applied for a job at a tech company.",0.6,否
+"I'm a vegetarian.",0.8,是
+"I have a meeting with a client tomorrow.",0.5,否
+"My friend is coming over tonight.",0.5,否
+"I'm working late tonight to finish a task.",0.5,否
+"I had a busy day yesterday.",0.5,否
+"I have arthritis.",0.8,是
+"I have an exam next week.",0.5,否
+"I need to visit my doctor for test results tomorrow.",0.6,否
+"I'm retired.",0.9,是
+"I don't drink coffee.",0.5,是
+"My job is very stressful.",0.5,否
+"How was your weekend?",0.1,否
+"I see a therapist every week for my anxiety.",0.9,是
+"I have asthma.",0.8,是
+"I need to do laundry tomorrow.",0.4,否
+"My wife is pregnant.",1.0,是
+"I'm so tired today.",0.3,否
+"My friend just had a baby.",0.4,否
+"My internet is really slow today.",0.2,否
+"I'm not a morning person.",0.5,是
+"I went to a wedding last weekend.",0.5,否
+"My aunt is visiting us this week.",0.6,否
+"My family lives in another city.",0.5,否
+"That's a good idea.",0.1,否
+"I like to travel to new places.",0.5,是
+"I need to go to the bank.",0.4,否
+"My new job starts next week.",0.9,是
+"I'm catching up on work emails.",0.5,否
+"I'm a vegetarian.",0.8,是
+"My job involves a lot of meetings.",0.5,否
+"I'm majoring in computer science.",0.7,是
+"I live with two roommates.",0.6,是
+"I'm sorry.",0.1,否
+"I had coffee with a friend this morning.",0.4,否
+"I bought a house.",0.9,是
+"My favorite book is To Kill a Mockingbird.",0.5,是
+"I feel anxious sometimes.",0.8,是
+"I got a new phone as a gift.",0.4,否
+"I have a stomach ache.",0.5,否
+"Nice to meet you.",0.1,否
+"I got fired from my job.",0.8,是
+"I had an argument with my friend.",0.5,否
+"My blood pressure was high at my last check-up.",0.7,否
+"I started going to therapy recently.",0.8,是
+"My job involves a lot of meetings.",0.5,否
+"My brother just graduated from college.",0.4,否
+"I'm allergic to peanuts.",0.8,是
+"I have a meeting with a client tomorrow.",0.5,否
+"I hope to start my own business.",0.4,否
+"I need to visit my doctor for test results tomorrow.",0.6,否
+"I like hiking and camping.",0.5,是
+"I need to schedule my annual check-up tomorrow.",0.6,否
+"My sister is coming to visit.",0.5,否
+"I have asthma.",0.8,是
+"Do you need help?",0.1,否
+"I'm learning to play the violin.",0.5,是
+"I enjoy listening to classical music.",0.5,是
+"I need to schedule my annual check-up.",0.6,否
+"My cat is 5 years old.",0.7,是
+"I just moved to a new city.",0.9,是
+"I have been sleeping better these days.",0.6,否
+"I have to finish this report by Friday.",0.5,否
+"I'm trying to quit smoking.",0.6,是
+"I'm going to take a shower.",0.3,否
+"I enjoy attending workshops to learn new skills.",0.5,是
+"I'm attending a conference next month for work.",0.5,否
+"I bought a house.",0.9,是
+"Anything new?",0.1,否
+"I was diagnosed with diabetes last year.",0.9,是
+"My mom has been sick for a few days.",0.7,否
+"I'm feeling a bit under the weather.",0.4,否
+"My car ran out of gas on the highway.",0.6,否
+"I like to spend time in nature.",0.5,是
+"I love stand-up comedy.",0.5,是
+"I should get a flu shot soon.",0.6,否
+"I have a cold today.",0.5,否
+"I see a therapist every week for my anxiety.",0.9,是
+"I have to work overtime tonight.",0.5,否
+"I'm feeling better than yesterday.",0.4,否
+"I love painting landscapes.",0.5,是
+"I need to reply to some emails tomorrow.",0.4,否
+"I have asthma.",0.8,是
+"I have asthma.",0.8,是
+"My mom is retired.",0.5,否
+"My friend John moved to another city.",0.4,否
+"I take vitamins every day.",0.7,是
+"I have to take insulin daily.",0.8,是
+"I have arthritis.",0.8,是
+"I skipped class today.",0.5,否
+"I should cut down on caffeine.",0.5,否
+"I lost my keys yesterday.",0.6,否
+"I love stand-up comedy.",0.5,是
+"I'm a software developer.",0.8,是
+"I have chronic back pain.",0.8,是
+"My mom's birthday is next month.",0.9,是
+"I love experimenting with new recipes.",0.5,是
+"I moved to a new apartment.",0.9,是
+"I need to buy groceries tomorrow.",0.4,否
+"My rent is expensive.",0.4,否
+"I got my COVID vaccine.",0.7,否
+"I'm feeling much better now.",0.6,否
+"I enjoy solving puzzles.",0.5,是
+"I love traveling and photography.",0.5,是
+"My blood pressure was high at my last check-up.",0.7,否
+"I'm going to a concert this weekend.",0.5,否
+"I updated my resume last night.",0.5,否
+"I need to do laundry tomorrow.",0.4,否
+"I passed my driving test.",0.6,否
+"My friend is visiting from out of town.",0.4,否
+"I'm on a diet to lose some weight.",0.6,否
+"My doctor prescribed me painkillers.",0.7,否
+"I had a busy day yesterday.",0.5,否
+"I have asthma.",0.8,是
+"I lost my phone charger.",0.2,否
+"I don't like spicy food.",0.5,是
+"My family lives in another city.",0.5,否
+"It might rain tomorrow.",0.2,否
+"I have chronic back pain.",0.8,是
+"Shall we go?",0.1,否
+"I adopted a kitten recently.",0.7,是
+"My favorite color is blue.",0.5,是
+"Exactly.",0.1,否
+"I got a promotion at work.",0.9,是
+"I bought a new phone.",0.4,否
+"I just started a new job.",0.9,是
+"I'm going to the gym tonight.",0.5,否
+"My wife is pregnant.",1.0,是
+"I don't enjoy sports.",0.5,是
+"I'm catching up on work emails.",0.5,否
+"I think I'm catching a cold.",0.4,否
+"I have a meeting this morning.",0.5,否
+"I had dinner with John on Friday.",0.5,否
+"I have a meeting at 9 AM.",0.5,否
+"Good morning!",0.1,否
+"My cat is 5 years old.",0.7,是
+"I need to take out the trash tomorrow.",0.4,否
+"I need to clean my room tomorrow.",0.4,否
+"I'm not a morning person.",0.5,是
+"I have chronic back pain.",0.8,是
+"My friend just got a new job.",0.4,否
+"I have arthritis.",0.8,是
+"I lost my keys.",0.6,否
+"I hope my hard work pays off.",0.4,否
+"I'm hopeful about the future.",0.3,否
+"I'm a teacher.",0.8,是
+"I'm working late tonight to finish a task.",0.5,否
+"I got a promotion yesterday.",0.9,是
+"I have to work overtime tonight.",0.5,否
+"I have been sleeping better these days.",0.6,否
+"I got a new job offer.",0.9,是
+"I love stand-up comedy.",0.5,是
+"I passed my exam.",0.6,否
+"My dog is 5 years old.",0.7,是
+"I'm trying to manage my stress better.",0.7,否
+"I have high blood pressure.",0.8,是
+"I was born in 1990.",0.9,是
+"I feel anxious sometimes.",0.8,是
+"I see a therapist every week for my anxiety.",0.9,是
+"I have a dentist appointment next week.",0.6,否
+"I have arthritis.",0.8,是
+"I'm a software developer.",0.8,是
+"My father is recovering from surgery.",0.7,否
+"I love traveling and photography.",0.5,是
+"How are you?",0.1,否
+"I need to schedule my annual check-up tomorrow.",0.6,否
+"I watched a movie with Michael last night.",0.4,否
+"I learned a new skill for my job.",0.5,否
+"I have a doctor's appointment on Friday.",0.6,否
+"I joined a book club.",0.5,是
+"I went shopping with Michael last weekend.",0.4,否
+"My cat is 5 years old.",0.7,是
+"I hate loud music.",0.5,是
+"I have asthma.",0.8,是
+"My brother is visiting us.",0.5,否
+"I prefer tea over coffee.",0.4,是
+"Yes, please.",0.1,否
+"I failed my exam.",0.6,否
+"I need to reply to some emails tomorrow.",0.4,否
+"My sister just got engaged.",0.4,否
+"My friend is coming over tonight.",0.5,否
+"My internet is really slow today.",0.2,否
+"I'm feeling much better now.",0.6,否
+"I have to work overtime tonight.",0.5,否
+"I'm applying to college.",0.7,否
+"I take vitamins every day.",0.7,是
+"It depends.",0.1,否
+"My sister is coming to visit me this weekend.",0.5,否
+"I have to work overtime this week.",0.5,否
+"I go for a walk every morning for my health.",0.7,是
+"My sister is coming to visit.",0.5,否
+"My daughter is in high school.",0.9,是
+"What's going on?",0.1,否
+"I love stand-up comedy.",0.5,是
+"My colleague invited me to a seminar.",0.5,否
+"My boss gave me a compliment today.",0.5,否
+"I don't have any siblings.",0.7,是
+"I'm not a morning person.",0.5,是
+"I have been sleeping better these days.",0.6,否
+"I went to the park with Sarah on Sunday.",0.4,否
+"I went to a party last night.",0.5,否
+"My internet is really slow today.",0.2,否
+"I got my COVID vaccine.",0.7,否
+"I read a bedtime story to my daughter.",0.9,是
+"I need to wash the dishes tomorrow.",0.4,否
+"It is what it is.",0.1,否
+"My cousin just got married.",0.4,否
+"I live in a big city.",0.8,是
+"Good evening.",0.1,否
+"I joined a hiking club.",0.5,是
+"My neighbor is noisy.",0.5,否
+"My mom is retired.",0.5,否
+"I need to reply to some emails.",0.5,否
+"I love traveling and photography.",0.5,是
+"Right.",0.1,否
+"I was diagnosed with cancer two years ago.",1.0,是
+"I got a promotion at work.",0.9,是
+"My aunt is visiting us this week.",0.6,否
+"I need to do laundry tomorrow.",0.4,否
+"I was diagnosed with diabetes last year.",0.9,是
+"I have a lot of work to do today.",0.5,否
+"I have two kids.",0.9,是
+"I enjoy going for a run in the morning.",0.5,是
+"I work at a bank.",0.8,是
+"I need to buy groceries.",0.4,否
+"I'm thinking of changing careers.",0.6,否
+"My boss is giving me a hard time.",0.5,否
+"That's terrible.",0.1,否
+"My friend is coming over tonight.",0.5,否
+"I work in finance.",0.8,是
+"I'm so tired today.",0.3,否
+"Fingers crossed.",0.1,否
+"I love to bake cakes and cookies.",0.5,是
+"I have to pay my credit card bill tomorrow.",0.4,否
+"I need to wash the dishes tomorrow.",0.4,否
+"My neighbor is noisy.",0.5,否
+"I have to work overtime tonight.",0.5,否
+"I need to call my friend to catch up tomorrow.",0.4,否
+"My mom has been sick for a few days.",0.7,否
+"I live with two roommates.",0.6,是
+"I started going to therapy recently.",0.8,是
+"I don't like spicy food.",0.5,是
+"I enjoy star gazing at night.",0.5,是
+"I was diagnosed with high blood pressure recently.",0.8,是
+"My internet is really slow today.",0.2,否
+"Absolutely.",0.1,否
+"I met a new friend at the gym.",0.4,否
+"My sister just got engaged.",0.4,否
+"I was diagnosed with diabetes last year.",0.9,是
+"My cousin just got married.",0.4,否
+"My daughter is in high school.",0.9,是
+"I have arthritis.",0.8,是
+"My friend just had a baby.",0.4,否
+"My friend is mad at me.",0.5,否
+"Good luck!",0.1,否
+"My friend just had a baby.",0.4,否
+"Are you okay?",0.1,否
+"My boss is very supportive.",0.5,否
+"I love traveling and photography.",0.5,是
+"I love stand-up comedy.",0.5,是
+"My brother just graduated from college.",0.4,否
+"I don't drink alcohol.",0.5,是
+"I have arthritis.",0.8,是
+"It depends.",0.1,否
+"I live in a small apartment.",0.8,是
+"My friend is visiting from out of town.",0.4,否
+"I lost my wallet.",0.7,否
+"Exactly.",0.1,否
+"I have high blood pressure.",0.8,是
+"My back hurts from sitting too long.",0.4,否
+"I'm working late tonight to finish a task.",0.5,否
+"My colleague invited me to a seminar.",0.5,否
+"My favorite band is Coldplay.",0.5,是
+"I'm feeling much better now.",0.6,否
